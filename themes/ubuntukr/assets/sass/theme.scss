@@ -1,0 +1,15 @@
+// Import the framework
+@import 'vanilla-framework/scss/vanilla';
+
+// Include all of Vanilla Framework
+@include vanilla;
+
+// Required Core Stylesheet
+@import "@glidejs/glide/src/assets/sass/glide.core";
+
+// Optional Theme Stylesheet
+@import "@glidejs/glide/src/assets/sass/glide.theme";
+
+.p-navigation__dropdown-item{
+    color: white !important;
+}

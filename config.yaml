@@ -1,0 +1,62 @@
+baseURL: 'http://example.org/'
+languageCode: ko-kr
+title: 'Ubuntu Korea Community'
+theme: "ubuntukr"
+buildFuture: true
+params:
+  contact: contact@ubuntu-kr.org
+
+defaultContentLanguage: ko
+languages:
+  ko:
+    languageName: 한국어
+    title: 우분투 한국 커뮤니티
+    weight: 1
+    params:
+      description: >-
+        우분투 한국 커뮤니티는 Ubuntu Community Council에서 인증한 공식 한국 커뮤니티이며,
+        우분투(Ubuntu)를 사용하는 사람, 개발하는 사람, 우분투 프로젝트에 기여하는 사람, 우분투에 관심이 있는 모두를 위한 커뮤니티 입니다.
+    menu:
+      main:
+      - identifier: try
+        name: 우분투 사용해보기
+        url: try
+        weight: 1
+      - identifier: docs
+        name: 문서
+        url: docs
+        weight: 2
+      - identifier: community
+        name: 커뮤니티
+        url: community
+        weight: 3
+      - identifier: partandcontrib
+        name: 참여 및 기여하기
+        url: partandcontrib
+        weight: 4
+  en:
+    languageName: English
+    title: Ubuntu Korea Community
+    weight: 2
+    params:
+      description: >-
+        Ubuntu Korea Community is a Ubuntu LoCo(Local Community) in South Korea verified by Ubuntu Community Council,
+        It is a place for everyone who intrested in using, developing with ubuntu, or contributing to ubuntu projects.
+    menu:
+      main:
+      - identifier: try
+        name: Try Ubuntu
+        url: try
+        weight: 1
+      - identifier: docs
+        name: Documentations
+        url: docs
+        weight: 2
+      - identifier: community
+        name: Community
+        url: community
+        weight: 3
+      - identifier: partandcontrib
+        name: Participate & Contribute
+        url: partandcontrib
+        weight: 4

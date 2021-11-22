@@ -1,0 +1,53 @@
+{{ define "main" }}
+
+{{ $allPages := .Site.Pages }}
+{{ range .Site.Home.Translations }}
+{{ $allPages = $allPages | lang.Merge .Site.Pages }}
+{{ end }}
+
+{{ $regularPages := .Site.RegularPages }}
+{{ range .Site.Home.Translations }}
+{{ $regularPages = $regularPages | lang.Merge .Site.RegularPages }}
+{{ end }}
+
+<main>
+  <section class="p-strip--suru main-slide">
+      <div class="row">
+        <div class="col-8">
+          <h1>{{.Site.Title}}</h1>
+          <p>{{.Site.Params.description}}</p>
+        </div>
+        <div class="col-4">
+          <img src="{{ "/img/logo.svg" | relURL }}" alt="">
+        </div>
+      </div>
+  </section>
+  {{ $slides := (where $regularPages "Section" "slides") }}
+  {{ range $slides }}
+  <section class="p-strip--{{.Params.backgroundType}} main-slide">
+      <div class="row">
+        <div class="col-8">
+          <h1>{{.Title}}</h1>
+          <p>{{ .Content }}</p>
+          {{ range .Params.buttons }}
+          <a href="{{ .RelPermalink }}{{.url}}"><button>{{.label}}</button></a>
+          {{ end }}
+        </div>
+        <div class="col-4">
+          <img src="{{ .RelPermalink }}{{.Params.image}}" alt="">
+        </div>
+      </div>
+  </section>
+  {{ end }}
+  <div class="row">
+        <footer class="p-article-pagination">
+        <a class="p-article-pagination__link--previous" onclick="prevSlide()">
+            <span class="p-article-pagination__label">{{ i18n "prev" }}</span>
+        </a>
+        <a class="p-article-pagination__link--next" onclick="nextSlide()">
+            <span class="p-article-pagination__label">{{ i18n "next" }}</span>
+        </a>
+        </footer>
+    </div>
+</main>
+{{ end }}
