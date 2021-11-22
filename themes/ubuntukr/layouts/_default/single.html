@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+
+<main>
+  <section class="p-strip--suru-topped">
+      <div class="row">
+        <div class="col-8">
+          <h1>{{.Title}}</h1>
+          <p>{{.Params.description}}</p>
+        </div>
+      </div>
+  </section>
+  <section class="p-strip">
+  <div class="row">
+  {{ .Content }}
+  </div>
+  </section>
+</main>
+{{ end }}
