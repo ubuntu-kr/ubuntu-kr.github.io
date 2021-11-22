@@ -87,12 +87,30 @@ languages:
       - identifier: study_projects
         parent: partandcontrib
         name: 스터디/프로젝트
-        url: study_projects
+        url: projects
         weight: 4
       - identifier: translate
         parent: partandcontrib
         name: 우분투 번역하기
         url: translate
+        weight: 4
+      - identifier: follow
+        name: 소식 받기
+        weight: 5
+      - identifier: blog
+        parent: follow
+        name: 블로그
+        url: https://blog.ubuntu-kr.org
+        weight: 4
+      - identifier: facebook
+        parent: follow
+        name: 페이스북
+        url: https://fb.com/ubuntukorea
+        weight: 4
+      - identifier: twitter
+        parent: follow
+        name: 트위터
+        url: https://twitter.com/UbuntuKrOrg
         weight: 4
   en:
     languageName: English

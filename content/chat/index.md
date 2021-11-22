@@ -1,9 +1,8 @@
 ---
 title: "채팅(Slack, IRC)"
 description: "Slack 또는 IRC로 채팅에 참여하여 사람들과 대회하거나 질문 및 답변을 할 수 있습니다."
+image: "chat.svg"
 ---
-
-
 # Slack
 
 Slack 을 자주 사용한다면, 아래 링크로 바로 가입하고 입장하여 대화할 수 있습니다.
