@@ -112,6 +112,11 @@ languages:
         name: 트위터
         url: https://twitter.com/UbuntuKrOrg
         weight: 4
+      - identifier: youtube
+        parent: follow
+        name: YouTube
+        url: https://www.youtube.com/user/UbuntuKorea
+        weight: 4
   en:
     languageName: English
     title: Ubuntu Korea Community
