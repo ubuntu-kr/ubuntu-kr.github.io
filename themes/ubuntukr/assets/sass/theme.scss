@@ -4,6 +4,12 @@
 // Include all of Vanilla Framework
 @include vanilla;
 
+// Icons
+@include vf-p-icon-begin-downloading;
+@include vf-p-icon-machines;
+@include vf-p-icon-switcher-dashboard;
+
+
 // Required Core Stylesheet
 @import "@glidejs/glide/src/assets/sass/glide.core";
 

@@ -2,6 +2,7 @@
 title: "우분투 번역하기"
 description: "우분투 시스템 UI 및 내장 응용 프로그램 번역에 참여하기."
 image: "translate.svg"
+backgroundType: suru-topped #light, dark, accent, suru, suru-topped, image
 ---
 
 오픈소스 프로젝트인 우분투는, 시스템 UI 및 내장 응용 프로그램 번역도 누구나 참여하여 개선할 수 있습니다.
@@ -16,7 +17,7 @@ image: "translate.svg"
 - 번역을 작성하고, 번역 제안(Suggestion) 제출하기
 - 번역 제안 검토를 요청하거나 기다리기
 
-# 번역 팀에 참여하기
+# 번역팀에 참여하기
 
 번역팀 운영 규정에 명시된 요건을 만족 하시는 분에 한해, 번역팀에 가입 하셔서 더 많은 기여를 하실 수 있습니다.
 
