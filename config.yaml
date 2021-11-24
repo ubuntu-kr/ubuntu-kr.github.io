@@ -26,6 +26,11 @@ languages:
         name: 내려받기
         url: download
         weight: 20
+      - identifier: hardware
+        name: 우분투 인증 하드웨어(영어)
+        parent: try
+        url: https://ubuntu.com/certified
+        weight: 20
       - identifier: wiki-ko
         parent: try
         name: 위키(한국어)
