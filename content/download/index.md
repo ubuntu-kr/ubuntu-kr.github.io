@@ -50,13 +50,63 @@ mirrors:
 {{< button text="AniGil Linux Archive" href="https://mirror.anigil.com/ubuntu-cd/HEADER.html" icon="begin-downloading" >}}
 {{< button text="Harukasan (부경대학교)" href="https://ftp.harukasan.org/ubuntu-releases/HEADER.html" icon="begin-downloading" >}}
 
+# 설치 및 사용하기
+
+## 데스크탑 및 서버
+- 데스크탑: [설치 가이드](http://wiki.ubuntu-kr.org/index.php/Getting_Started), [설치 튜토리얼(영어)](https://ubuntu.com/tutorials/install-ubuntu-desktop)
+- 서버: [설치 튜토리얼(영어)](https://ubuntu.com/tutorials/install-ubuntu-server)
+- [우분투 인증 하드웨어 목록](https://ubuntu.com/certified)
 ## 퍼블릭 클라우드에서 사용하기
 - [퍼블릭 클라우드용 이미지](http://cloud-images.ubuntu.com/)
 - Amazon Web Services: [마켓플레이스](https://aws.amazon.com/marketplace/seller-profile?id=565feec9-3d43-413e-9760-c651546613f2), [문서](https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EC2_GetStarted.html)
 - Microsoft Azure: [Ubuntu on Azure](https://azure.microsoft.com/ko-kr/ubuntu/#overview), [문서](https://docs.microsoft.com/ko-kr/azure/virtual-machines/linux/quick-create-portal)
-- Google Cloud Platform: [마켓플레이스](https://console.cloud.google.com/marketplace/product/ubuntu-os-cloud/ubuntu-focal?project=youngbin-xyz), [문서](https://cloud.google.com/sdk/docs/quickstart-debian-ubuntu)
+- Google Cloud Platform: [마켓플레이스](https://console.cloud.google.com/marketplace/product/ubuntu-os-cloud/ubuntu-focal), [문서](https://cloud.google.com/sdk/docs/quickstart-debian-ubuntu)
 
-# WSL (Windows Subsystem for Linux)
+## WSL (Windows Subsystem for Linux)
 최신 버전의 Windows 10 또는 Windows 11 을 사용 중이라면, WSL 환경으로 우분투를 편리하게 만나보실 수 있습니다.
 
-{{< button text="WSL환경에 우분투 설치 (WSL Korea User Group 문서)" href="https://wslhub.com/wsl-firststep/firststep/install/" icon="begin-downloading" >}}
+{{< button text="WSL 환경에 우분투 설치 (WSL Korea User Group 문서)" href="https://wslhub.com/wsl-firststep/firststep/install/" icon="begin-downloading" >}}
+
+## 리눅스 컨테이너(Linux Container)
+
+애플리케이션 컨테이너 이미지: Docker, Podman, Kubernetes 등 OCI 규격 컨테이너 이미지 빌드에 사용합니다.
+
+{{< button text="Docker Hub" href="https://hub.docker.com/_/ubuntu" icon="begin-downloading" >}}
+{{< button text="Amazon ECR Public Gallery" href="https://gallery.ecr.aws/ubuntu/ubuntu" icon="begin-downloading" >}}
+
+시스템 컨테이너 (VM 스타일 컨테이너) 이미지: LXD, LXC 에서 사용하며, 단순히 VM을 대체하는 용도의 컨테이너용으로 쓰이는 이미지 입니다.
+
+{{< button text="LXD, LXC용 컨테이너 이미지 모두 보기" href="https://uk.lxd.images.canonical.com/" icon="begin-downloading" >}}
+{{< button text="linuxcontainers.org" href="https://linuxcontainers.org/" >}}
+
+# 도움 받기
+사용 중 도움이 필요하시면, 포럼과 채팅 등 다양한 온라인 커뮤니티에서 도움을 받으실 수 있습니다.
+
+{{< button text="포럼" href="https://forum.ubuntu-kr.org/" >}}
+{{< button text="페이스북 그룹" href="https://fb.com/groups/ubuntu.ko" >}}
+{{< button text="메일링 리스트" href="https://lists.ubuntu.com/archives/ubuntu-ko/" >}}
+{{< button text="채팅 (Slack, IRC)" href="../chat" >}}
+
+{{< button text="Ask Ubuntu (영어)" href="https://askubuntu.com/" >}}
+{{< button text="Ubuntu Forums (영어)" href="https://ubuntuforums.org/" >}}
+{{< button text="Launchpad Answers (영어)" href="https://answers.launchpad.net/ubuntu" >}}
+
+# 상용 기술 지원
+
+참고사항: 우분투 한국 커뮤니티는 Canonical Ltd.로부터 독립적으로 운영되는 사용자 및 개발자 커뮤니티이며, 우분투에 대한 상용 기술 지원을 제공하지 않습니다. 때문에 관련 문의에 대한 답변이 불가능 합니다. 아래 정보를 참고하셔서 Canonical Ltd. 로 부터 상용 기술 지원을 받으시거나, 국내/해외 Canonical Partner로 부터 상용 기술 지원을 제공 받으시기 바랍니다.
+## Ubuntu Advantage
+우분투를 개발한 Canonical Ltd. 로 부터 Ubuntu Advantage 상용 기술 지원을 받으실 수 있습니다.  
+무료로 제공되는 Essential 플랜 및 Standard, Advanced 유료 플랜이 있으며, 데스크탑, 서버, VM, 응용 프로그램(MySQL, MongoDB, NGINX, Kafka 등) 에 대한 기술 지원이 제공됩니다.
+
+{{< button text="Ubuntu Advantage (영어)" href="https://ubuntu.com/advantage" icon="information" >}}
+
+## 퍼블릭 클라우드용 Ubuntu Pro
+AWS, Google Cloud, Microsoft Azure 사용시, Canonical Ltd. 에서 제공하는 Ubuntu Pro 유료 프리미엄 이미지로 VM 워크로드를 생성할 수 있으며, 별도 추가 계약 없이 상용 기술 지원을 받을 수 있습니다. 
+
+{{< button text="Ubuntu Pro for AWS (영어)" href="https://ubuntu.com/aws/pro" icon="information" >}}
+{{< button text="Ubuntu Pro for Azure (영어)" href="https://ubuntu.com/azure/pro" icon="information" >}}
+{{< button text="Ubuntu Pro for Google Cloud (영어)" href="https://ubuntu.com/gcp/pro" icon="information" >}}
+## Canonical Partner
+Canonical Ltd.의 파트너사에서도 상용 기술 지원을 제공합니다.
+
+{{< button text="Find a Canonical partner (영어)" href="https://canonical.com/partners/find-a-partner" icon="information" >}}
