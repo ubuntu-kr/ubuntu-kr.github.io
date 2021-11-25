@@ -77,7 +77,11 @@
           <a href="about"><button>커뮤니티 소개</button></a>
           <div class="row p-divider">
             <div class="col-4 p-divider__block">
-              <h2>커뮤니티, 문서</h2>
+              <h2>
+                <i class="p-icon--comments"></i>
+                <i class="p-icon--topic"></i>
+                </br>커뮤니티 및 문서
+              </h2>
               <ul class="p-list--divided">
                 <li class="p-list__item is-ticked">
                   <ul class="p-inline-list--middot">
@@ -112,7 +116,11 @@
               </ul>
             </div>
             <div class="col-4 p-divider__block">
-              <h2>커뮤니티 행사</h2>
+              <h2>
+                <i class="p-icon--user-group"></i>
+                <i class="p-icon--exposed"></i>
+                </br>행사 및 국내/해외 교류
+              </h2>
               <ul class="p-list--divided">
                 <li class="p-list__item is-ticked">
                   <ul class="p-inline-list--middot">
@@ -135,12 +143,36 @@
                     </li>
                   </ul>
                 </li>
+                <li class="p-list__item is-ticked">
+                  <ul class="p-inline-list--middot">
+                    <li class="p-inline-list__item">
+                      해외 오픈소스 커뮤니티와 교류
+                    </li>
+                  </ul>
+                </li>
               </ul>
             </div>
             <div class="col-4 p-divider__block">
-              <h2>스터디/프로젝트</h2>
-              <p>우분투 및 관련 오픈소스 기술에 대한 스터디와 프로젝트를 통한 연구/개발을 진행하고 있습니다.</p>
-              <a href="projects"><button>더 알아보기</button></a>
+              <h2>
+                <i class="p-icon--code"></i>
+                <i class="p-icon--highlight-off"></i>
+                </br>연구/개발 활동</h2>
+               <ul class="p-list--divided">
+                <li class="p-list__item is-ticked">
+                  <ul class="p-inline-list--middot">
+                    <li class="p-inline-list__item">
+                      <a href="projects">스터디/프로젝트</a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="p-list__item is-ticked">
+                  <ul class="p-inline-list--middot">
+                    <li class="p-inline-list__item">
+                      <a href="translate">소프트웨어 지역화(번역)</a>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
             </div>
           </div>
         </div>
@@ -153,6 +185,17 @@
           <p>
             다양한 회사, 기관, 단체에서 우분투 한국 커뮤니티를 여러 방법으로 후원하여, 더 활발한 활동을 할 수 있도록 돕고 있습니다.
           </p>
+          <a href="sponsors"><button class="p-button has-icon"><i class="p-icon--information"></i><span>후원사 목록 보기</span></button></a>
+          <div class="p-logo-section">
+            <div class="p-logo-section__items">
+            {{ $sponsors := (where $regularPages "Section" "sponsors") }}
+            {{ range $sponsors }}
+              <div class="p-logo-section__item"><a href="{{ .RelPermalink }}">
+              <img class="p-logo-section__logo" src="{{ .RelPermalink }}{{.Params.image }}" alt="{{.Title}}">
+              </a></div>
+            {{ end }}
+            </div>
+          </div>
         </div>
       </div>
   </section>
