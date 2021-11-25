@@ -93,7 +93,8 @@ mirrors:
 
 # 상용 기술 지원
 
-참고사항: 우분투 한국 커뮤니티는 Canonical Ltd.로부터 독립적으로 운영되는 사용자 및 개발자 커뮤니티이며 비영리 형태로 운영되고 있습니다. 우분투에 대한 상용 기술 지원을 제공하지 않으며, 관련 문의에 대한 답변이 불가능 합니다. 아래 정보를 참고하셔서 Canonical Ltd. 로 부터 상용 기술 지원을 받으시거나, 국내/해외 Canonical Partner로 부터 상용 기술 지원을 제공 받으시기 바랍니다.
+{{< info title="참고사항" content="우분투 한국 커뮤니티는 Canonical Ltd.와는 독립적으로 운영되는 사용자 및 개발자 커뮤니티이며 비영리 형태로 운영되고 있습니다. 우분투에 상용 기술 지원을 제공하지 않으며, 관련 문의 답변도 불가능 합니다. 필요하신 경우, 아래 정보를 참고하셔서 Canonical Ltd. 또는 국내/해외 Canonical Partner로 부터 상용 기술 지원을 제공 받으시기 바랍니다." >}}
+
 ## Ubuntu Advantage
 우분투를 개발한 Canonical Ltd. 로 부터 Ubuntu Advantage 상용 기술 지원을 받으실 수 있습니다.  
 무료로 제공되는 Essential 플랜 및 Standard, Advanced 유료 플랜이 있으며, 데스크탑, 서버, VM, 응용 프로그램(MySQL, MongoDB, NGINX, Kafka 등) 에 대한 기술 지원이 제공됩니다.
