@@ -13,11 +13,7 @@
 @include vf-p-icon-topic;
 @include vf-p-icon-comments;
 @include vf-p-icon-highlight-off;
-// Required Core Stylesheet
-@import "@glidejs/glide/src/assets/sass/glide.core";
 
-// Optional Theme Stylesheet
-@import "@glidejs/glide/src/assets/sass/glide.theme";
 
 .p-navigation__dropdown-item{
     color: white !important;
