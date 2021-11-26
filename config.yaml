@@ -5,7 +5,16 @@ theme: "ubuntukr"
 buildFuture: true
 params:
   contact: contact@ubuntu-kr.org
-
+  copyright: >-
+    © 2021 Ubuntu Korea Community (Ubuntu Korean LoCo Team).
+    Except where otherwise noted, Website source code licensed under MIT, Contents licensed under CC BY 4.0. 
+    Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+  facebook: ubuntukorea
+  twitter: UbuntuKrOrg
+  github: ubuntu-kr
+  launchpad: ubuntu-ko
+  youtube: https://www.youtube.com/user/UbuntuKorea
+  source_repo: https://github.com/ubuntu-kr/ubuntu-kr.github.io
 defaultContentLanguage: ko
 languages:
   ko:
