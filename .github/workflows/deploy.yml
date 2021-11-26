@@ -22,10 +22,11 @@ jobs:
       - uses: actions/setup-go@v2
         with:
           go-version: '^1.17.1' # The Go version to download (if necessary) and use.
+      
       - name: Build website with hugo
         working-directory: src
         run: |
-          go install github.com/gohugoio/hugo@latest
+          go install --tags extended github.com/gohugoio/hugo@latest
           hugo mod get
           cd themes/ubuntukr && npm i && cd ../../
           hugo
