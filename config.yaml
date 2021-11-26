@@ -87,21 +87,26 @@ languages:
         name: 포럼
         url: https://forum.ubuntu-kr.org
         weight: 32
+      - identifier: askubuntukr
+        parent: community
+        name: Ask Ubuntu KR
+        url: https://ask.ubuntu-kr.org
+        weight: 33
       - identifier: fb-group
         parent: community
         name: 페이스북 그룹
         url: https://fb.com/groups/ubuntu.ko
-        weight: 33
+        weight: 34
       - identifier: lists
         parent: community
         name: 메일링 리스트
         url: https://lists.ubuntu.com/archives/ubuntu-ko/
-        weight: 34
+        weight: 35
       - identifier: chat
         parent: community
         name: 채팅(Slack, IRC)
         url: chat
-        weight: 35
+        weight: 36
       - identifier: partandcontrib
         name: 참여 및 기여하기
         url: partandcontrib
@@ -214,21 +219,26 @@ languages:
         name: Forum
         url: https://forum.ubuntu-kr.org
         weight: 32
+      - identifier: askubuntukr
+        parent: community
+        name: Ask Ubuntu KR
+        url: https://ask.ubuntu-kr.org
+        weight: 33
       - identifier: fb-group
         parent: community
         name: Facebook Group
         url: https://fb.com/groups/ubuntu.ko
-        weight: 33
+        weight: 34
       - identifier: lists
         parent: community
         name: Mailing list
         url: https://lists.ubuntu.com/archives/ubuntu-ko/
-        weight: 34
+        weight: 35
       - identifier: chat
         parent: community
         name: Chat (Slack, IRC)
         url: chat
-        weight: 35
+        weight: 36
       - identifier: partandcontrib
         name: Participate & Contribute
         url: partandcontrib
