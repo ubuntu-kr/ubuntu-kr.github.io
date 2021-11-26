@@ -156,17 +156,118 @@ languages:
       main:
       - identifier: try
         name: Try Ubuntu
-        url: try
         weight: 1
-      - identifier: docs
-        name: Documentations
-        url: docs
+      - identifier: download
+        parent: try
+        name: Download
+        url: download
+        weight: 20
+      - identifier: hardware
+        name: Ubuntu Certified Hardwares
+        parent: try
+        url: https://ubuntu.com/certified
+        weight: 20
+      - identifier: wiki-ko
+        parent: try
+        name: Wiki (Korean)
+        url: https://wiki.ubuntu-kr.org
+        weight: 20
+      - identifier: tutorials-ko
+        parent: try
+        name: Tutorials (Korean)
+        url: https://ubuntu-kr.github.io/workshops/
+        weight: 21
+      - identifier: docs-en
+        parent: try
+        name: Docs
+        url: https://docs.ubuntu.com
+        weight: 22
+      - identifier: tutorials-en
+        parent: try
+        name: Tutorials
+        url: https://ubuntu.com/tutorials
+        weight: 23
+      - identifier: wiki-en
+        parent: try
+        name: Wiki
+        url: https://wiki.ubuntu.com
+        weight: 24
+      - identifier: about-group
+        name: About
         weight: 2
+      - identifier: about
+        parent: about-group
+        name: About our community
+        url: about
+        weight: 24
+      - identifier: sponsors
+        parent: about-group
+        name: Sponsors
+        url: sponsors
+        weight: 25
       - identifier: community
         name: Community
         url: community
         weight: 3
+      - identifier: forum
+        parent: community
+        name: Forum
+        url: https://forum.ubuntu-kr.org
+        weight: 32
+      - identifier: fb-group
+        parent: community
+        name: Facebook Group
+        url: https://fb.com/groups/ubuntu.ko
+        weight: 33
+      - identifier: lists
+        parent: community
+        name: Mailing list
+        url: https://lists.ubuntu.com/archives/ubuntu-ko/
+        weight: 34
+      - identifier: chat
+        parent: community
+        name: Chat (Slack, IRC)
+        url: chat
+        weight: 35
       - identifier: partandcontrib
         name: Participate & Contribute
         url: partandcontrib
+        weight: 4
+      - identifier: events
+        parent: partandcontrib
+        name: Join events
+        url: https://event.ubuntu-kr.org
+        weight: 4
+      - identifier: study_projects
+        parent: partandcontrib
+        name: Group Studies/Projects
+        url: projects
+        weight: 4
+      - identifier: translate
+        parent: partandcontrib
+        name: Translate Ubuntu
+        url: translate
+        weight: 4
+      - identifier: follow
+        name: Follow us
+        weight: 5
+      - identifier: blog
+        parent: follow
+        name: Blog
+        url: https://blog.ubuntu-kr.org
+        weight: 4
+      - identifier: facebook
+        parent: follow
+        name: Facebook
+        url: https://fb.com/ubuntukorea
+        weight: 4
+      - identifier: twitter
+        parent: follow
+        name: Twitter
+        url: https://twitter.com/UbuntuKrOrg
+        weight: 4
+      - identifier: youtube
+        parent: follow
+        name: YouTube
+        url: https://www.youtube.com/user/UbuntuKorea
         weight: 4
