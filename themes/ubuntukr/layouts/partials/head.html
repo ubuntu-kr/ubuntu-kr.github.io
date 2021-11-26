@@ -1,8 +1,0 @@
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    {{- $options := (dict "includePaths" (slice "node_modules")) -}}
-    {{ $style := resources.Get "sass/theme.scss" | resources.ToCSS $options | resources.Minify | resources.Fingerprint }}
-
-    <link rel="stylesheet" href="{{ $style.Permalink }}">
-</head>

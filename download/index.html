@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="http://example.org/sass/theme.min.658c039c2e4f82d0511c20595ca8c1265ed7b9388b9ebfa759cbc964dfde9d6d.css">
+</head><body><header id="navigation" class="p-navigation is-dark">
+  <div class="p-navigation__row">
+    <div class="p-navigation__banner">
+      <div class="p-navigation__logo">
+        <a class="p-navigation__item" href="/">
+          <img class="p-navigation__image" src="/img/logo.svg" alt="우분투 한국 커뮤니티">
+        </a>
+      </div>
+      <a href="#navigation" class="p-navigation__toggle--open" title="menu">Menu</a>
+      <a href="#navigation-closed" class="p-navigation__toggle--close" title="close menu">Close menu</a>
+    </div>
+    <nav class="p-navigation__nav" aria-label="Example sub navigation">
+      <ul class="p-navigation__items">
+        
+          
+          <li class="p-navigation__item--dropdown-toggle" id="link-try">
+            <a class="p-navigation__link" aria-controls="try-menu">
+              우분투 사용해보기
+            </a>
+            <ul class="p-navigation__dropdown--right" id="try-menu" aria-hidden="true">
+              
+              <li>
+                <a href="/download" class="p-navigation__dropdown-item">내려받기</a>
+              </li>
+              
+              <li>
+                <a href="https://ubuntu.com/certified" class="p-navigation__dropdown-item">우분투 인증 하드웨어(영어)</a>
+              </li>
+              
+              <li>
+                <a href="https://wiki.ubuntu-kr.org" class="p-navigation__dropdown-item">위키(한국어)</a>
+              </li>
+              
+              <li>
+                <a href="https://ubuntu-kr.github.io/workshops/" class="p-navigation__dropdown-item">튜토리얼(한국어)</a>
+              </li>
+              
+              <li>
+                <a href="https://docs.ubuntu.com" class="p-navigation__dropdown-item">문서(영문)</a>
+              </li>
+              
+              <li>
+                <a href="https://ubuntu.com/tutorials" class="p-navigation__dropdown-item">튜토리얼(영문)</a>
+              </li>
+              
+              <li>
+                <a href="https://wiki.ubuntu.com" class="p-navigation__dropdown-item">위키(영문)</a>
+              </li>
+              
+            </ul>
+          </li>
+          
+        
+          
+          <li class="p-navigation__item--dropdown-toggle" id="link-about-group">
+            <a class="p-navigation__link" aria-controls="about-group-menu">
+              소개
+            </a>
+            <ul class="p-navigation__dropdown--right" id="about-group-menu" aria-hidden="true">
+              
+              <li>
+                <a href="/about" class="p-navigation__dropdown-item">커뮤니티 소개</a>
+              </li>
+              
+              <li>
+                <a href="/sponsors" class="p-navigation__dropdown-item">후원사</a>
+              </li>
+              
+            </ul>
+          </li>
+          
+        
+          
+          <li class="p-navigation__item--dropdown-toggle" id="link-community">
+            <a class="p-navigation__link" aria-controls="community-menu">
+              커뮤니티
+            </a>
+            <ul class="p-navigation__dropdown--right" id="community-menu" aria-hidden="true">
+              
+              <li>
+                <a href="https://forum.ubuntu-kr.org" class="p-navigation__dropdown-item">포럼</a>
+              </li>
+              
+              <li>
+                <a href="https://fb.com/groups/ubuntu.ko" class="p-navigation__dropdown-item">페이스북 그룹</a>
+              </li>
+              
+              <li>
+                <a href="https://lists.ubuntu.com/archives/ubuntu-ko/" class="p-navigation__dropdown-item">메일링 리스트</a>
+              </li>
+              
+              <li>
+                <a href="/chat" class="p-navigation__dropdown-item">채팅(Slack, IRC)</a>
+              </li>
+              
+            </ul>
+          </li>
+          
+        
+          
+          <li class="p-navigation__item--dropdown-toggle" id="link-partandcontrib">
+            <a class="p-navigation__link" aria-controls="partandcontrib-menu">
+              참여 및 기여하기
+            </a>
+            <ul class="p-navigation__dropdown--right" id="partandcontrib-menu" aria-hidden="true">
+              
+              <li>
+                <a href="/projects" class="p-navigation__dropdown-item">스터디/프로젝트</a>
+              </li>
+              
+              <li>
+                <a href="/translate" class="p-navigation__dropdown-item">우분투 번역하기</a>
+              </li>
+              
+              <li>
+                <a href="https://event.ubuntu-kr.org" class="p-navigation__dropdown-item">행사 참여하기</a>
+              </li>
+              
+            </ul>
+          </li>
+          
+        
+          
+          <li class="p-navigation__item--dropdown-toggle" id="link-follow">
+            <a class="p-navigation__link" aria-controls="follow-menu">
+              소식 받기
+            </a>
+            <ul class="p-navigation__dropdown--right" id="follow-menu" aria-hidden="true">
+              
+              <li>
+                <a href="https://www.youtube.com/user/UbuntuKorea" class="p-navigation__dropdown-item">YouTube</a>
+              </li>
+              
+              <li>
+                <a href="https://blog.ubuntu-kr.org" class="p-navigation__dropdown-item">블로그</a>
+              </li>
+              
+              <li>
+                <a href="https://twitter.com/UbuntuKrOrg" class="p-navigation__dropdown-item">트위터</a>
+              </li>
+              
+              <li>
+                <a href="https://fb.com/ubuntukorea" class="p-navigation__dropdown-item">페이스북</a>
+              </li>
+              
+            </ul>
+          </li>
+          
+        
+      </ul>
+     
+     <ul class="p-navigation__items">
+        <li class="p-navigation__item--dropdown-toggle" id="link-4">
+          <a class="p-navigation__link" aria-controls="account-menu">
+            🌏
+          </a>
+          <ul class="p-navigation__dropdown--right" id="account-menu" aria-hidden="true">
+            
+            
+            <li>
+              <a href="http://example.org/download/" class="p-navigation__dropdown-item">📄 한국어</a>
+            </li>
+            
+            
+            <li>
+              <a href="http://example.org/" class="p-navigation__dropdown-item">🏠 한국어</a>
+            </li>
+            
+            <li>
+              <a href="http://example.org/en/" class="p-navigation__dropdown-item">🏠 English</a>
+            </li>
+            
+            
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+<div id="content">
+
+
+<main>
+  <section class="p-strip--suru"
+    >
+      <div class="row">
+        
+        <div class="col-8">
+          <h1>우분투 내려받기</h1>
+          <p>최신 버전의 우분투를 내려받아 다양한 환경에 설치하여 사용할 수 있습니다.</p>
+        </div>
+        <div class="col-4">
+          <img src="/download/download.svg" alt="">
+        </div>
+        
+      </div>
+  </section>
+  <section class="p-strip">
+  <div class="row">
+  <h1 id="버전-및-요구사양">버전 및 요구사양</h1>
+<h2 id="우분투-hahahugoshortcode-s0-hbhb">우분투 20.04 LTS</h2>
+<p>가장 최근 출시된 LTS(장기 지원) 버전인 우분투 20.04 LTS는 5년간 유지보수 및 보안 업데이트가 무료로 제공됩니다.
+대부분의 경우, 안정적인 사용을 위해 LTS 버전 사용이 권장됩니다.</p>
+<p><a href="https://wiki.ubuntu.com/FocalFossa/ReleaseNotes">우분투 20.04 LTS 릴리즈 노트 보기</a></p>
+<h2 id="우분투-hahahugoshortcode-s4-hbhb">우분투 21.10</h2>
+<p>새로운 기능을 먼저 사용해 보고 싶다면, 가장 최신 버전인 우분투 21.10를 사용해 보세요. 출시 후 9개월간 유지보수 및 보안 업데이트가 무료로 제공됩니다.</p>
+<p><a href="https://discourse.ubuntu.com/t/impish-indri-release-notes/21951">우분투 21.10 릴리즈 노트 보기</a></p>
+<h2 id="요구-사양">요구 사양</h2>
+<ul>
+<li>최소 2GHz 듀얼 코어 프로세서와 4GB 시스템 메모리</li>
+<li>25GB 이상의 저장 장치 여유공간</li>
+<li>인터넷 연결은 있으면 좋습니다.</li>
+<li>설치 매체로 사용할 장치: DVD 드라이브, USB 디스크 등</li>
+</ul>
+<h1 id="내려받기">내려받기</h1>
+<h2 id="공식-홈페이지에서-내려받기">공식 홈페이지에서 내려받기</h2>
+<p><a href="https://ubuntu.com/download/desktop">
+    <button class="p-button has-icon">
+    
+    <i class="p-icon--begin-downloading"></i>
+    
+    <span>
+    데스크탑
+    </span>
+    </button>
+</a>
+
+<a href="https://ubuntu.com/download/server">
+    <button class="p-button has-icon">
+    
+    <i class="p-icon--machines"></i>
+    
+    <span>
+    서버
+    </span>
+    </button>
+</a>
+
+<a href="https://ubuntu.com/download/raspberry-pi">
+    <button class="p-button has-icon">
+    
+    <i class="p-icon--switcher-dashboard"></i>
+    
+    <span>
+    Raspberry Pi
+    </span>
+    </button>
+</a>
+
+<a href="https://ubuntu.com/download/iot">
+    <button class="p-button has-icon">
+    
+    <i class="p-icon--switcher-dashboard"></i>
+    
+    <span>
+    사물인터넷 (Ubuntu Core)
+    </span>
+    </button>
+</a>
+</p>
+<h2 id="국내-미러-서버에서-내려받기">국내 미러 서버에서 내려받기</h2>
+<p>국내 미러 서버에서 데스크탑 또는 서버용 CD/DVD 이미지를 빠르게 내려받을 수 있습니다.</p>
+<p><a href="http://ftp.kaist.ac.kr/ubuntu-cd/HEADER.html">
+    <button class="p-button has-icon">
+    
+    <i class="p-icon--begin-downloading"></i>
+    
+    <span>
+    KAIST
+    </span>
+    </button>
+</a>
+
+<a href="https://mirror.kakao.com/ubuntu-releases/">
+    <button class="p-button has-icon">
+    
+    <i class="p-icon--begin-downloading"></i>
+    
+    <span>
+    카카오 (Kakao Corp.)
+    </span>
+    </button>
+</a>
+
+<a href="https://ftp.lanet.kr/ubuntu-releases/">
+    <button class="p-button has-icon">
+    
+    <i class="p-icon--begin-downloading"></i>
+    
+    <span>
+    LANET
+    </span>
+    </button>
+</a>
+
+<a href="https://mirror.anigil.com/ubuntu-cd/HEADER.html">
+    <button class="p-button has-icon">
+    
+    <i class="p-icon--begin-downloading"></i>
+    
+    <span>
+    AniGil Linux Archive
+    </span>
+    </button>
+</a>
+
+<a href="https://ftp.harukasan.org/ubuntu-releases/HEADER.html">
+    <button class="p-button has-icon">
+    
+    <i class="p-icon--begin-downloading"></i>
+    
+    <span>
+    Harukasan (부경대학교)
+    </span>
+    </button>
+</a>
+</p>
+<h1 id="설치-및-사용하기">설치 및 사용하기</h1>
+<h2 id="데스크탑-및-서버">데스크탑 및 서버</h2>
+<ul>
+<li>데스크탑: <a href="http://wiki.ubuntu-kr.org/index.php/Getting_Started">설치 가이드</a>, <a href="https://ubuntu.com/tutorials/install-ubuntu-desktop">설치 튜토리얼(영어)</a></li>
+<li>서버: <a href="https://ubuntu.com/tutorials/install-ubuntu-server">설치 튜토리얼(영어)</a></li>
+<li><a href="https://ubuntu.com/certified">우분투 인증 하드웨어 목록</a></li>
+</ul>
+<h2 id="퍼블릭-클라우드에서-사용하기">퍼블릭 클라우드에서 사용하기</h2>
+<ul>
+<li><a href="http://cloud-images.ubuntu.com/">퍼블릭 클라우드용 이미지</a></li>
+<li>Amazon Web Services: <a href="https://aws.amazon.com/marketplace/seller-profile?id=565feec9-3d43-413e-9760-c651546613f2">마켓플레이스</a>, <a href="https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EC2_GetStarted.html">문서</a></li>
+<li>Microsoft Azure: <a href="https://azure.microsoft.com/ko-kr/ubuntu/#overview">Ubuntu on Azure</a>, <a href="https://docs.microsoft.com/ko-kr/azure/virtual-machines/linux/quick-create-portal">문서</a></li>
+<li>Google Cloud Platform: <a href="https://console.cloud.google.com/marketplace/product/ubuntu-os-cloud/ubuntu-focal">마켓플레이스</a>, <a href="https://cloud.google.com/sdk/docs/quickstart-debian-ubuntu">문서</a></li>
+</ul>
+<h2 id="wsl-windows-subsystem-for-linux">WSL (Windows Subsystem for Linux)</h2>
+<p>최신 버전의 Windows 10 또는 Windows 11 을 사용 중이라면, WSL 환경으로 우분투를 편리하게 만나보실 수 있습니다.</p>
+<a href="https://wslhub.com/wsl-firststep/firststep/install/">
+    <button class="p-button has-icon">
+    
+    <i class="p-icon--begin-downloading"></i>
+    
+    <span>
+    WSL 환경에 우분투 설치 (WSL Korea User Group 문서)
+    </span>
+    </button>
+</a>
+
+<h2 id="리눅스-컨테이너linux-container">리눅스 컨테이너(Linux Container)</h2>
+<p>애플리케이션 컨테이너 이미지: Docker, Podman, Kubernetes 등 OCI 규격 컨테이너 이미지 빌드에 사용합니다.</p>
+<p><a href="https://hub.docker.com/_/ubuntu">
+    <button class="p-button has-icon">
+    
+    <i class="p-icon--begin-downloading"></i>
+    
+    <span>
+    Docker Hub
+    </span>
+    </button>
+</a>
+
+<a href="https://gallery.ecr.aws/ubuntu/ubuntu">
+    <button class="p-button has-icon">
+    
+    <i class="p-icon--begin-downloading"></i>
+    
+    <span>
+    Amazon ECR Public Gallery
+    </span>
+    </button>
+</a>
+</p>
+<p>시스템 컨테이너 (VM 스타일 컨테이너) 이미지: LXD, LXC 에서 사용하며, 단순히 VM을 대체하는 용도의 컨테이너용으로 쓰이는 이미지 입니다.</p>
+<p><a href="https://uk.lxd.images.canonical.com/">
+    <button class="p-button has-icon">
+    
+    <i class="p-icon--begin-downloading"></i>
+    
+    <span>
+    LXD, LXC용 컨테이너 이미지 모두 보기
+    </span>
+    </button>
+</a>
+
+<a href="https://linuxcontainers.org/">
+    <button class="p-button ">
+    
+    <span>
+    linuxcontainers.org
+    </span>
+    </button>
+</a>
+</p>
+<h1 id="도움-받기">도움 받기</h1>
+<p>사용 중 도움이 필요하시면, 포럼과 채팅 등 다양한 온라인 커뮤니티에서 도움을 받으실 수 있습니다.</p>
+<p><a href="https://forum.ubuntu-kr.org/">
+    <button class="p-button ">
+    
+    <span>
+    포럼
+    </span>
+    </button>
+</a>
+
+<a href="https://fb.com/groups/ubuntu.ko">
+    <button class="p-button ">
+    
+    <span>
+    페이스북 그룹
+    </span>
+    </button>
+</a>
+
+<a href="https://lists.ubuntu.com/archives/ubuntu-ko/">
+    <button class="p-button ">
+    
+    <span>
+    메일링 리스트
+    </span>
+    </button>
+</a>
+
+<a href="../chat">
+    <button class="p-button ">
+    
+    <span>
+    채팅 (Slack, IRC)
+    </span>
+    </button>
+</a>
+</p>
+<p><a href="https://askubuntu.com/">
+    <button class="p-button ">
+    
+    <span>
+    Ask Ubuntu (영어)
+    </span>
+    </button>
+</a>
+
+<a href="https://ubuntuforums.org/">
+    <button class="p-button ">
+    
+    <span>
+    Ubuntu Forums (영어)
+    </span>
+    </button>
+</a>
+
+<a href="https://answers.launchpad.net/ubuntu">
+    <button class="p-button ">
+    
+    <span>
+    Launchpad Answers (영어)
+    </span>
+    </button>
+</a>
+</p>
+<h1 id="상용-기술-지원">상용 기술 지원</h1>
+<div class="p-notification--information">
+  <div class="p-notification__content">
+    <h5 class="p-notification__title">참고사항</h5>
+    <p class="p-notification__message">우분투 한국 커뮤니티는 Canonical Ltd.와는 독립적으로 운영되는 사용자 및 개발자 커뮤니티이며 비영리 형태로 운영되고 있습니다. 우분투에 상용 기술 지원을 제공하지 않으며, 관련 문의 답변도 불가능 합니다. 필요하신 경우, 아래 정보를 참고하셔서 Canonical Ltd. 또는 국내/해외 Canonical Partner로 부터 상용 기술 지원을 제공 받으시기 바랍니다.</p>
+  </div>
+</div>
+<h2 id="ubuntu-advantage">Ubuntu Advantage</h2>
+<p>우분투를 개발한 Canonical Ltd. 로 부터 Ubuntu Advantage 상용 기술 지원을 받으실 수 있습니다.<br>
+무료로 제공되는 Essential 플랜 및 Standard, Advanced 유료 플랜이 있으며, 데스크탑, 서버, VM, 응용 프로그램(MySQL, MongoDB, NGINX, Kafka 등) 에 대한 기술 지원이 제공됩니다.</p>
+<a href="https://ubuntu.com/advantage">
+    <button class="p-button has-icon">
+    
+    <i class="p-icon--information"></i>
+    
+    <span>
+    Ubuntu Advantage (영어)
+    </span>
+    </button>
+</a>
+
+<h2 id="퍼블릭-클라우드용-ubuntu-pro">퍼블릭 클라우드용 Ubuntu Pro</h2>
+<p>AWS, Google Cloud, Microsoft Azure 사용시, Canonical Ltd. 에서 제공하는 Ubuntu Pro 유료 프리미엄 이미지로 VM 워크로드를 생성할 수 있으며, 별도 추가 계약 없이 상용 기술 지원을 받을 수 있습니다.</p>
+<p><a href="https://ubuntu.com/aws/pro">
+    <button class="p-button has-icon">
+    
+    <i class="p-icon--information"></i>
+    
+    <span>
+    Ubuntu Pro for AWS (영어)
+    </span>
+    </button>
+</a>
+
+<a href="https://ubuntu.com/azure/pro">
+    <button class="p-button has-icon">
+    
+    <i class="p-icon--information"></i>
+    
+    <span>
+    Ubuntu Pro for Azure (영어)
+    </span>
+    </button>
+</a>
+
+<a href="https://ubuntu.com/gcp/pro">
+    <button class="p-button has-icon">
+    
+    <i class="p-icon--information"></i>
+    
+    <span>
+    Ubuntu Pro for Google Cloud (영어)
+    </span>
+    </button>
+</a>
+</p>
+<h2 id="canonical-partner">Canonical Partner</h2>
+<p>Canonical Ltd.의 파트너사에서도 상용 기술 지원을 제공합니다.</p>
+<a href="https://canonical.com/partners/find-a-partner">
+    <button class="p-button has-icon">
+    
+    <i class="p-icon--information"></i>
+    
+    <span>
+    Find a Canonical partner (영어)
+    </span>
+    </button>
+</a>
+
+
+  </div>
+  </section>
+</main>
+
+        </div><section class="p-strip--accent">
+  <div class="row">
+    <div class="col-12">
+      <h2>우분투 한국 커뮤니티</h2>
+      <ul class="p-inline-list--middot is-dark">
+        <li class="p-inline-list__item">
+          <a href="mailto:contact@ubuntu-kr.org">운영진과 연락하기(이메일)</a>
+        </li>
+        <li class="p-inline-list__item">
+          <a href="https://fb.com/ubuntukorea">Facebook</a>
+        </li>
+        <li class="p-inline-list__item">
+          <a href="https://twitter.com/UbuntuKrOrg">Twitter</a>
+        </li>
+        <li class="p-inline-list__item">
+          <a href="https://www.youtube.com/user/UbuntuKorea">YouTube</a>
+        </li>
+        <li class="p-inline-list__item">
+          <a href="https://github.com/ubuntu-kr">GitHub</a>
+        </li>
+        <li class="p-inline-list__item">
+          <a href="https://launchpad.net/~ubuntu-ko">Launchpad</a>
+        </li>
+      </ul>
+      <p>© 2021 Ubuntu Korea Community (Ubuntu Korean LoCo Team). Except where otherwise noted, Website source code licensed under MIT, Contents licensed under CC BY 4.0.  Ubuntu and Canonical are registered trademarks of Canonical Ltd.</p>
+      <a href="https://github.com/ubuntu-kr/ubuntu-kr.github.io">Source code on GitHub</a>
+    </div>
+  </div><script type="text/javascript" src='/js/ubuntukr.js'></script>
+<script>
+
+let slides = document.getElementsByClassName("main-slide");
+let index = 0;
+let count = slides.length;
+function setSlideIndex(destination) {
+    index = destination % count;
+    index = index < 0 ? index * -1 : index;
+    for (let i = 0; i < count; i++) {
+        if(i == index) {
+            slides[i].style.display = "block";
+        } else {
+            slides[i].style.display = "none";
+        }
+    }
+}
+function nextSlide() {
+    setSlideIndex(index + 1);
+}
+function prevSlide() {
+    setSlideIndex(index - 1);
+}
+setSlideIndex(0);
+setInterval(nextSlide, 5000);
+</script></body>
+</html>
