@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>우분투 한국 커뮤니티</title>
-    <link>https://ubuntu-kr.github.io/</link>
+    <link>https://ubuntu-kr.org/</link>
     <description>Recent content on 우분투 한국 커뮤니티</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ubuntu-kr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ubuntu-kr.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>우분투 21.10</title>
-      <link>https://ubuntu-kr.github.io/slides/ubuntu/</link>
+      <link>https://ubuntu-kr.org/slides/ubuntu/</link>
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ubuntu-kr.github.io/slides/ubuntu/</guid>
+      <guid>https://ubuntu-kr.org/slides/ubuntu/</guid>
       <description>가장 최근 2021년 10월 출시된 우분투 21.10 Impish Indri를 내려받아 데스크탑, 서버, 사물인터넷, 클라우드 등 다양한 환경에서 사용하실 수 있습니다.</description>
     </item>
     
     <item>
       <title>OpenUP (NIPA)</title>
-      <link>https://ubuntu-kr.github.io/sponsors/nipa_kr/</link>
+      <link>https://ubuntu-kr.org/sponsors/nipa_kr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ubuntu-kr.github.io/sponsors/nipa_kr/</guid>
+      <guid>https://ubuntu-kr.org/sponsors/nipa_kr/</guid>
       <description>후원사 소개 OpenUP, 오픈소스 소프트웨어 통합 지원 센터는 정보통신산업진흥원(NIPA) 소속의 오픈소스 지원 및 진흥을 담당하는 조직 입니다.
 오픈소스 소프트웨어를 개발, 공유, 활용하기를 원하는 개발자, 기업, 정부 등을 체계정으로 지원하고, 수요(기업, 공공기관) 및 공급(개발자, 기업)의 선순환 구조를 이루어, 오픈소스 소프트웨어 활성화의 허브 역할을 수행하는 기관입니다.
 후원 세부사항  커뮤니티 행사 개최나 스터디/프로젝트 모임 진행을 위한 장소 대관, 화상 회의 플랫폼 등을 커뮤니티 지원 프로그램을 통해 제공하고 있습니다. 지난 UbuCon Asia 2021에 Bronze 후원사로 참여하였습니다.</description>
@@ -29,10 +29,10 @@
     
     <item>
       <title>스터디/프로젝트</title>
-      <link>https://ubuntu-kr.github.io/projects/</link>
+      <link>https://ubuntu-kr.org/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ubuntu-kr.github.io/projects/</guid>
+      <guid>https://ubuntu-kr.org/projects/</guid>
       <description>그룹 스터디 주기적으로 우분투 또는 우분투 관련 오픈소스 기술에 대해 주제를 선정하여 그룹 스터디를 진행하고 있습니다. 스터디에 필요한 비용이나 공간, 장비 등은 되도록이면 커뮤니티 차원에서 지원하거나 별도 후원을 받아 진행하고 있습니다.
 컨테이너, 리눅스 데스크탑 앱 개발, 서버 구축 등 다양한 주제로 스터디를 진행하고 있습니다.
 스터디 주제는 회원이 제안 하거나, 운영진 측에서 기획하여 선정하며, 스터디 구성원 모집 시 포럼이나 소셜 미디어 채널 등을 통해 모집합니다. 그룹 스터디 산출물은 위키 또는 GitHub 등에 공유되고 있습니다.</description>
@@ -40,10 +40,10 @@
     
     <item>
       <title>우분투 내려받기</title>
-      <link>https://ubuntu-kr.github.io/download/</link>
+      <link>https://ubuntu-kr.org/download/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ubuntu-kr.github.io/download/</guid>
+      <guid>https://ubuntu-kr.org/download/</guid>
       <description>버전 및 요구사양 우분투 20.04 LTS 가장 최근 출시된 LTS(장기 지원) 버전인 우분투 20.04 LTS는 5년간 유지보수 및 보안 업데이트가 무료로 제공됩니다. 대부분의 경우, 안정적인 사용을 위해 LTS 버전 사용이 권장됩니다.
 우분투 20.04 LTS 릴리즈 노트 보기
 우분투 21.10 새로운 기능을 먼저 사용해 보고 싶다면, 가장 최신 버전인 우분투 21.10를 사용해 보세요. 출시 후 9개월간 유지보수 및 보안 업데이트가 무료로 제공됩니다.
@@ -53,10 +53,10 @@
     
     <item>
       <title>우분투 번역하기</title>
-      <link>https://ubuntu-kr.github.io/translate/</link>
+      <link>https://ubuntu-kr.org/translate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ubuntu-kr.github.io/translate/</guid>
+      <guid>https://ubuntu-kr.org/translate/</guid>
       <description>오픈소스 프로젝트인 우분투는, 시스템 UI 및 내장 응용 프로그램 번역도 누구나 참여하여 개선할 수 있습니다. 우분투 번역에 참여하셔서, 많은 사용자들이 우분투를 더 쉽게 이용할 수 있도록 도와주세요. 한번에 많이 번역하기 보단, 하나를 번역해도 정확히, 그리고 꾸준에 번역에 참여해 주시면 더 좋습니다.
 번역에 참여하기 아래 단계를 거쳐 번역에 참여할 수 있습니다.
  Launchpad 계정 만들고 로그인 하기 번역 하고자 하는 패키지 찾기 번역을 작성하고, 번역 제안(Suggestion) 제출하기 번역 제안 검토를 요청하거나 기다리기  번역팀에 참여하기 번역팀 운영 규정에 명시된 요건을 만족 하시는 분에 한해, 번역팀에 가입 하셔서 더 많은 기여를 하실 수 있습니다.</description>
@@ -64,10 +64,10 @@
     
     <item>
       <title>채팅(Slack, IRC)</title>
-      <link>https://ubuntu-kr.github.io/chat/</link>
+      <link>https://ubuntu-kr.org/chat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ubuntu-kr.github.io/chat/</guid>
+      <guid>https://ubuntu-kr.org/chat/</guid>
       <description>Slack Slack 을 자주 사용한다면, 아래 링크로 바로 가입하고 입장하여 대화할 수 있습니다.
  회원가입 채널 접속 (ubuntu-kr.slack.com)  채널 목록
  0000-general: 일반 채널 (IRC #ubuntu-ko 와 연동) 0001-notice: 공지사항 채널 0004-l10n: 우분투 번역 팀 채널 2XXX-*: 그룹 스터디용 채널 3XXX-*: 프로젝트 팀 채널  IRC 사용하시는 IRC 클라이언트가 있다면, 아래 정보로 IRC 채널에 접속하여 이용할 수 있습니다.
@@ -76,10 +76,10 @@
     
     <item>
       <title>채팅(Slack, IRC)</title>
-      <link>https://ubuntu-kr.github.io/try/</link>
+      <link>https://ubuntu-kr.org/try/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ubuntu-kr.github.io/try/</guid>
+      <guid>https://ubuntu-kr.org/try/</guid>
       <description>Slack Slack 을 자주 사용한다면, 아래 링크로 바로 가입하고 입장하여 대화할 수 있습니다.
  회원가입 채널 접속 (ubuntu-kr.slack.com)  채널 목록
  0000-general: 일반 채널 (IRC #ubuntu-ko 와 연동) 0001-notice: 공지사항 채널 0004-l10n: 우분투 번역 팀 채널 2XXX-*: 그룹 스터디용 채널 3XXX-*: 프로젝트 팀 채널  IRC 사용하시는 IRC 클라이언트가 있다면, 아래 정보로 IRC 채널에 접속하여 이용할 수 있습니다.
@@ -88,10 +88,10 @@
     
     <item>
       <title>클라우드메이트</title>
-      <link>https://ubuntu-kr.github.io/sponsors/cloudmate_co_ltd/</link>
+      <link>https://ubuntu-kr.org/sponsors/cloudmate_co_ltd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ubuntu-kr.github.io/sponsors/cloudmate_co_ltd/</guid>
+      <guid>https://ubuntu-kr.org/sponsors/cloudmate_co_ltd/</guid>
       <description>후원사 소개 클라우드메이트는 기술력 중심의 MANAGED SERVICE 전문 기업으로, 고객이 목표하는 클라우드 환경을 구축하고 효율적으로 운영할 수 있도록 도와드립니다.
 클라우드에 대한 열정 가득한 인재들로 구성되어 끊임없이 관련 기술을 공부하고, 습득한 지식을 함께 나누어 고객 비즈니스 가치를 향상시키는 것이 저희의 미션입니다.
 후원 세부사항  커뮤니티 웹사이트, 포럼, 위키의 안정적 운영을 위한 클라우드 인프라를 Microsoft Azure 를 통해 후원하고 있습니다. 지난 UbuCon Asia 2021에 Silver 후원사로 참여하였습니다.  </description>

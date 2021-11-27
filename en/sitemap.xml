@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ubuntu-kr.github.io/en/categories/</loc>
+    <loc>https://ubuntu-kr.org/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://ubuntu-kr.github.io/categories/"
+                href="https://ubuntu-kr.org/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ubuntu-kr.github.io/en/categories/"
+                href="https://ubuntu-kr.org/en/categories/"
                 />
   </url><url>
-    <loc>https://ubuntu-kr.github.io/en/tags/</loc>
+    <loc>https://ubuntu-kr.org/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://ubuntu-kr.github.io/tags/"
+                href="https://ubuntu-kr.org/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ubuntu-kr.github.io/en/tags/"
+                href="https://ubuntu-kr.org/en/tags/"
                 />
   </url><url>
-    <loc>https://ubuntu-kr.github.io/en/</loc>
+    <loc>https://ubuntu-kr.org/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://ubuntu-kr.github.io/"
+                href="https://ubuntu-kr.org/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ubuntu-kr.github.io/en/"
+                href="https://ubuntu-kr.org/en/"
                 />
   </url>
 </urlset>

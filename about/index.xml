@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>커뮤니티 소개 on 우분투 한국 커뮤니티</title>
-    <link>https://ubuntu-kr.github.io/about/</link>
+    <link>https://ubuntu-kr.org/about/</link>
     <description>Recent content in 커뮤니티 소개 on 우분투 한국 커뮤니티</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko-kr</language><atom:link href="https://ubuntu-kr.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko-kr</language><atom:link href="https://ubuntu-kr.org/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

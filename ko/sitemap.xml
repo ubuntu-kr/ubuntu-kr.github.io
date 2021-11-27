@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ubuntu-kr.github.io/slides/</loc>
+    <loc>https://ubuntu-kr.org/slides/</loc>
     <lastmod>2021-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ubuntu-kr.github.io/slides/ubuntu/</loc>
+    <loc>https://ubuntu-kr.org/slides/ubuntu/</loc>
     <lastmod>2021-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ubuntu-kr.github.io/</loc>
+    <loc>https://ubuntu-kr.org/</loc>
     <lastmod>2021-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ubuntu-kr.github.io/en/"
+                href="https://ubuntu-kr.org/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://ubuntu-kr.github.io/"
+                href="https://ubuntu-kr.org/"
                 />
   </url><url>
-    <loc>https://ubuntu-kr.github.io/categories/</loc>
+    <loc>https://ubuntu-kr.org/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ubuntu-kr.github.io/en/categories/"
+                href="https://ubuntu-kr.org/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://ubuntu-kr.github.io/categories/"
+                href="https://ubuntu-kr.org/categories/"
                 />
   </url><url>
-    <loc>https://ubuntu-kr.github.io/sponsors/nipa_kr/</loc>
+    <loc>https://ubuntu-kr.org/sponsors/nipa_kr/</loc>
   </url><url>
-    <loc>https://ubuntu-kr.github.io/tags/</loc>
+    <loc>https://ubuntu-kr.org/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ubuntu-kr.github.io/en/tags/"
+                href="https://ubuntu-kr.org/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://ubuntu-kr.github.io/tags/"
+                href="https://ubuntu-kr.org/tags/"
                 />
   </url><url>
-    <loc>https://ubuntu-kr.github.io/projects/</loc>
+    <loc>https://ubuntu-kr.org/projects/</loc>
   </url><url>
-    <loc>https://ubuntu-kr.github.io/download/</loc>
+    <loc>https://ubuntu-kr.org/download/</loc>
   </url><url>
-    <loc>https://ubuntu-kr.github.io/translate/</loc>
+    <loc>https://ubuntu-kr.org/translate/</loc>
   </url><url>
-    <loc>https://ubuntu-kr.github.io/chat/</loc>
+    <loc>https://ubuntu-kr.org/chat/</loc>
   </url><url>
-    <loc>https://ubuntu-kr.github.io/try/</loc>
+    <loc>https://ubuntu-kr.org/try/</loc>
   </url><url>
-    <loc>https://ubuntu-kr.github.io/about/</loc>
+    <loc>https://ubuntu-kr.org/about/</loc>
   </url><url>
-    <loc>https://ubuntu-kr.github.io/sponsors/cloudmate_co_ltd/</loc>
+    <loc>https://ubuntu-kr.org/sponsors/cloudmate_co_ltd/</loc>
   </url><url>
-    <loc>https://ubuntu-kr.github.io/sponsors/</loc>
+    <loc>https://ubuntu-kr.org/sponsors/</loc>
   </url>
 </urlset>
