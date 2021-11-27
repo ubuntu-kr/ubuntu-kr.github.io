@@ -11,30 +11,30 @@
 {{ end }}
 
 <main>
-  <section class="p-strip--suru main-slide">
+  <section class="p-strip--suru main-slide main-strip">
       <div class="row">
-        <div class="col-8">
+        <div class="col-8 left-section">
           <h1>{{.Site.Title}}</h1>
           <p>{{.Site.Params.description}}</p>
           <a href="about"><button>커뮤니티 소개</button></a>
         </div>
-        <div class="col-4">
+        <div class="col-4 right-section">
           <img src="{{ "/img/logo.svg" | relURL }}" alt="">
         </div>
       </div>
   </section>
   {{ $slides := (where $regularPages "Section" "slides") }}
   {{ range $slides }}
-  <section class="p-strip--{{.Params.backgroundType}} main-slide">
+  <section class="p-strip--{{.Params.backgroundType}} main-slide main-strip">
       <div class="row">
-        <div class="col-8">
+        <div class="col-8 left-section">
           <h1>{{.Title}}</h1>
           <p>{{ .Content }}</p>
           {{ range .Params.buttons }}
           <a href="{{ .RelPermalink }}{{.url}}"><button>{{.label}}</button></a>
           {{ end }}
         </div>
-        <div class="col-4">
+        <div class="col-4 right-section">
           <img src="{{ .RelPermalink }}{{.Params.image}}" alt="">
         </div>
       </div>

@@ -1,13 +1,13 @@
 {{ define "main" }}
 
 <main>
-  <section class="p-strip--{{.Params.backgroundType}}"
+  <section class="main-strip p-strip--{{.Params.backgroundType}}"
     {{if eq .Params.backgroundType "image"}}
     style="background-image:url('{{.Params.backgroundImage}}')"
     {{end}}>
       <div class="row">
         {{if eq .Params.backgroundType "image"}}
-        <div class="col-6 col-start-large-7">
+        <div class="col-6 col-start-large-7 right-section">
           <div class="p-card--overlay">
             <img src="{{ .RelPermalink }}{{.Params.image}}" alt="" style="padding: 20px">
             <h2>{{.Title}}</h2>

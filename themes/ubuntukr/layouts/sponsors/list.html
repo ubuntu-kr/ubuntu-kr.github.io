@@ -11,13 +11,13 @@
 {{ end }}
 
 <main>
-  <section class="p-strip--{{.Params.backgroundType}}">
+  <section class="p-strip--{{.Params.backgroundType}} main-strip">
       <div class="row">
-        <div class="col-8">
+        <div class="col-8 left-section">
           <h1>{{.Title}}</h1>
           <p>{{.Params.description}}</p>
         </div>
-        <div class="col-4">
+        <div class="col-4 right-section">
           <img src="{{ .RelPermalink }}{{.Params.image}}" alt="">
         </div>
       </div>
