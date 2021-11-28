@@ -25,6 +25,13 @@ mirrors:
 
 [우분투 {{< param "ubuntuVersions.normalVersion" >}} 릴리즈 노트 보기]({{< param "ubuntuVersions.normalReleaseNote" >}})
 
+## 우분투 출시 및 지원 주기
+우분투는 새 버전이 매년 4월과 10월, 6개월 간격으로 새로 출시되며. 짝수 년도 4월, 2년 간격으로 장기 지원(LTS) 버전이 출시됩니다.
+장기 지원 버전은 5년간, 장기 지원 사이 출시되는 일번 버전은 9개월간 유지보수 및 보안 업데이트가 무료로 제공됩니다.
+우분투 홈페이지에서 각 버전별 지원 주기를 확인하실 수 있습니다.
+
+{{< button text="Ubuntu release cycle (영어)" href="https://ubuntu.com/about/release-cycle" icon="information" >}}
+
 ## 요구 사양
 
  - 최소 2GHz 듀얼 코어 프로세서와 4GB 시스템 메모리
