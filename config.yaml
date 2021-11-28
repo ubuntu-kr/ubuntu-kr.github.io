@@ -1,4 +1,4 @@
-baseURL: 'https://ubuntu-kr.github.io'
+baseURL: 'https://ubuntu-kr.org'
 languageCode: ko-kr
 title: 'Ubuntu Korea Community'
 theme: "ubuntukr"
