@@ -1,0 +1,9 @@
+[next]
+other = "다음"
+[prev]
+other = "이전"
+
+[footer_contact]
+other = "운영진과 연락하기(이메일)"
+[footer_src_repo]
+other = "GitHub에서 소스코드 보기"

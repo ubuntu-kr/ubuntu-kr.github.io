@@ -1,0 +1,9 @@
+[next]
+other = "Next"
+[prev]
+other = "Previous"
+
+[footer_contact]
+other = "Contact with Organizers (Email)"
+[footer_src_repo]
+other = "Source code on GitHub"

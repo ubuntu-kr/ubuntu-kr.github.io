@@ -4,7 +4,7 @@
       <h2>{{.Site.Title}}</h2>
       <ul class="p-inline-list--middot is-dark">
         <li class="p-inline-list__item">
-          <a href="mailto:{{.Site.Params.contact}}">운영진과 연락하기(이메일)</a>
+          <a href="mailto:{{.Site.Params.contact}}">{{ i18n "footer_contact" }}</a>
         </li>
         <li class="p-inline-list__item">
           <a href="https://fb.com/{{.Site.Params.facebook}}">Facebook</a>
@@ -23,6 +23,6 @@
         </li>
       </ul>
       <p>{{.Site.Params.copyright}}</p>
-      <a href="{{.Site.Params.source_repo}}">Source code on GitHub</a>
+      <a href="{{.Site.Params.source_repo}}">{{ i18n "footer_src_repo" }}</a>
     </div>
   </div>
