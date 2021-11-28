@@ -3,6 +3,7 @@ languageCode: ko-kr
 title: 'Ubuntu Korea Community'
 theme: "ubuntukr"
 buildFuture: true
+googleAnalytics: UA-65961752-1
 params:
   contact: contact@ubuntu-kr.org
   copyright: >-
