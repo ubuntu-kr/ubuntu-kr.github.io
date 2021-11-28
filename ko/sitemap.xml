@@ -4,9 +4,29 @@
   <url>
     <loc>https://ubuntu-kr.org/slides/</loc>
     <lastmod>2021-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ubuntu-kr.org/en/slides/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://ubuntu-kr.org/slides/"
+                />
   </url><url>
     <loc>https://ubuntu-kr.org/slides/ubuntu/</loc>
     <lastmod>2021-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ubuntu-kr.org/en/slides/ubuntu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://ubuntu-kr.org/slides/ubuntu/"
+                />
   </url><url>
     <loc>https://ubuntu-kr.org/</loc>
     <lastmod>2021-11-11T00:00:00+00:00</lastmod>
