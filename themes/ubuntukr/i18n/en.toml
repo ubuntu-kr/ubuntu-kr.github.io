@@ -3,6 +3,57 @@ other = "Next"
 [prev]
 other = "Previous"
 
+[main_ubuntu_title]
+other = "Most widely used Linux distro"
+[main_ubuntu_desc]
+other = """
+Ubuntu is one of the most widely used Linux distributon in the world.
+It is well known as easy to use linux desktop, and easy to configure linux distribution for server and other infrastructures.
+Ubuntu is optimized for various devices and environment such as Desktop, Laptop, Server, Cloud, Internet of Things, Raspberry Pi, Appliances, Kiosks and much more.
+"""
+
+[main_kr_loco_title]
+other = "Verified Ubuntu LoCo(Local Community)"
+[main_kr_loco_desc]
+other = """
+Ubuntu Korea Community is a Ubuntu LoCo(Local Community) in South Korea verified by Ubuntu Community Council.
+We provide localized forums and documentations, Plan and host various seminars and conferences.
+We also organize group studies, research/development projects on Ubuntu and its related open source projects.
+"""
+[main_kr_loco_about]
+other = "About the community"
+[main_kr_loco_community_title]
+other = "Community & Docs"
+[main_kr_loco_events_title]
+other = "Events & Collaborations"
+[main_kr_loco_events_events]
+other = "Seminars, Workshops, Conferences"
+[main_kr_loco_collaborate]
+other = "Collaborate with other FOSS communities"
+[main_kr_loco_ubucon]
+other = "UbuCon Asia"
+[main_kr_loco_global]
+other = "Exchange with Global FOSS communities"
+[main_kr_loco_research_title]
+other = "Research & Development activities"
+[main_kr_loco_research_projects]
+other = "Group Studies/Projects"
+[main_kr_loco_research_l10n]
+other = "Localization (Translation)"
+
+[forums]
+other = "Forums"
+[fb_groups]
+other = "Facebook Groups"
+[wiki]
+other = "Wiki"
+[tutorials]
+other = "Tutorials"
+[chat]
+other = "Chat (Slack, IRC)"
+[mailing_list]
+other = "Mailing List"
+
 [footer_contact]
 other = "Contact with Organizers (Email)"
 [footer_src_repo]

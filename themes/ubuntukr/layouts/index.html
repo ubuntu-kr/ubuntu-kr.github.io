@@ -16,7 +16,7 @@
         <div class="col-8 left-section">
           <h1>{{.Site.Title}}</h1>
           <p>{{.Site.Params.description}}</p>
-          <a href="about"><button>커뮤니티 소개</button></a>
+          <a href="{{.Site.Params.main_slide.link}}"><button>{{.Site.Params.main_slide.label}}</button></a>
         </div>
         <div class="col-4 right-section">
           <img src="{{ "/img/logo.svg" | relURL }}" alt="">
@@ -53,11 +53,9 @@
   <section class="p-strip">
       <div class="row">
         <div class="col-8">
-          <h1>가장 널리 쓰이는 리눅스 배포판</h1>
+          <h1>{{i18n "main_ubuntu_title"}}</h1>
           <p>
-            우분투(Ubuntu)는 가장 널리 쓰이는 오픈소스 리눅스 배포판 중 하나 입니다.
-            사용하기 쉬운 리눅스 데스크탑, 인프라 운용 소프트웨어 구성이 쉬운 서버용 리눅스 등으로도 잘 알려져 있습니다.
-            데스크탑, 노트북, 서버, 클라우드, 사물인터넷, Raspberry Pi, 가전제품, 키오스크 등 다양한 유형의 환경과 디바이스에 최적화 되어 있습니다.
+            {{i18n "main_ubuntu_desc"}}
           </p>
           <a href="download"><button class="p-button has-icon"><i class="p-icon--begin-downloading"></i><span>내려받기</span></button></a>
         </div>
@@ -69,47 +67,46 @@
   <section class="p-strip--light">
       <div class="row">
         <div class="col-12">
-          <h1>우분투 공식 지역 커뮤니티</h1>
+          <h1>{{i18n "main_kr_loco_title"}}</h1>
           <p>
-            우분투 한국 커뮤니티는 Ubuntu Community Council 인증 공식 우분투 지역 커뮤니티 입니다.
-            온라인 커뮤니티 및 문서 서비스 제공, 각종 세미나와 컨퍼런스 개최, 우분투 및 관련 오픈소스 기술에 대한 그룹 스터디와 연구/개발 및 프로젝트 등 다양한 활동을 하고 있습니다. 
+            {{i18n "main_kr_loco_desc"}}
           </p>
-          <a href="about"><button>커뮤니티 소개</button></a>
+          <a href="about"><button>{{i18n "main_kr_loco_about"}}</button></a>
           <div class="row p-divider">
             <div class="col-4 p-divider__block">
               <h2>
                 <i class="p-icon--comments"></i>
                 <i class="p-icon--topic"></i>
-                </br>커뮤니티 및 문서
+                </br>{{i18n "main_kr_loco_community_title"}}
               </h2>
               <ul class="p-list--divided">
                 <li class="p-list__item is-ticked">
                   <ul class="p-inline-list--middot">
                     <li class="p-inline-list__item">
-                      <a href="https://forum.ubuntu-kr.org/">포럼</a>
+                      <a href="https://forum.ubuntu-kr.org/">{{i18n "forums"}}</a>
                     </li>
                     <li class="p-inline-list__item">
-                      <a href="https://fb.com/ubuntu.ko">페이스북 그룹</a>
-                    </li>
-                  </ul>
-                </li>
-                <li class="p-list__item is-ticked">
-                  <ul class="p-inline-list--middot">
-                    <li class="p-inline-list__item">
-                      <a href="https://wiki.ubuntu-kr.org/">위키</a>
-                    </li>
-                    <li class="p-inline-list__item">
-                      <a href="https://ubuntu-kr.github.io/workshops/o">튜토리얼</a>
+                      <a href="https://fb.com/ubuntu.ko">{{i18n "fb_groups"}}</a>
                     </li>
                   </ul>
                 </li>
                 <li class="p-list__item is-ticked">
                   <ul class="p-inline-list--middot">
                     <li class="p-inline-list__item">
-                      <a href="chat">채팅 (Slack, IRC)</a>
+                      <a href="https://wiki.ubuntu-kr.org/">{{i18n "wiki"}}</a>
                     </li>
                     <li class="p-inline-list__item">
-                      <a href="https://lists.ubuntu.com/archives/ubuntu-ko/">메일링 리스트</a>
+                      <a href="https://ubuntu-kr.github.io/workshops/o">{{i18n "tutorials"}}</a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="p-list__item is-ticked">
+                  <ul class="p-inline-list--middot">
+                    <li class="p-inline-list__item">
+                      <a href="chat">{{i18n "chat"}}</a>
+                    </li>
+                    <li class="p-inline-list__item">
+                      <a href="https://lists.ubuntu.com/archives/ubuntu-ko/">{{i18n "mailing_list"}}</a>
                     </li>
                   </ul>
                 </li>
@@ -119,34 +116,34 @@
               <h2>
                 <i class="p-icon--user-group"></i>
                 <i class="p-icon--exposed"></i>
-                </br>행사 및 국내/해외 교류
+                </br>{{i18n "main_kr_loco_events_title"}}
               </h2>
               <ul class="p-list--divided">
                 <li class="p-list__item is-ticked">
                   <ul class="p-inline-list--middot">
                     <li class="p-inline-list__item">
-                      <a href="https://event.ubuntu-kr.org/">세미나, 워크샵, 컨퍼런스</a>
+                      <a href="https://event.ubuntu-kr.org/">{{i18n "main_kr_loco_events_events"}}</a>
                     </li>
                   </ul>
                 </li>
                 <li class="p-list__item is-ticked">
                   <ul class="p-inline-list--middot">
                     <li class="p-inline-list__item">
-                      다른 오픈소스 커뮤니티와의 연합 행사
+                      {{i18n "main_kr_loco_collaborate"}}
                     </li>
                   </ul>
                 </li>
                 <li class="p-list__item is-ticked">
                   <ul class="p-inline-list--middot">
                     <li class="p-inline-list__item">
-                      <a href="https://www.ubucon.asia/">UbuCon Asia (우부콘 아시아)</a>
+                      <a href="https://www.ubucon.asia/">{{i18n "main_kr_loco_ubucon"}}</a>
                     </li>
                   </ul>
                 </li>
                 <li class="p-list__item is-ticked">
                   <ul class="p-inline-list--middot">
                     <li class="p-inline-list__item">
-                      해외 오픈소스 커뮤니티와 교류
+                      {{i18n "main_kr_loco_global"}}
                     </li>
                   </ul>
                 </li>
@@ -156,19 +153,19 @@
               <h2>
                 <i class="p-icon--code"></i>
                 <i class="p-icon--highlight-off"></i>
-                </br>연구/개발 활동</h2>
+                </br>{{i18n "main_kr_loco_research_title"}}</h2>
                <ul class="p-list--divided">
                 <li class="p-list__item is-ticked">
                   <ul class="p-inline-list--middot">
                     <li class="p-inline-list__item">
-                      <a href="projects">스터디/프로젝트</a>
+                      <a href="projects">{{i18n "main_kr_loco_research_projects"}}</a>
                     </li>
                   </ul>
                 </li>
                 <li class="p-list__item is-ticked">
                   <ul class="p-inline-list--middot">
                     <li class="p-inline-list__item">
-                      <a href="translate">소프트웨어 지역화(번역)</a>
+                      <a href="translate">{{i18n "main_kr_loco_research_l10n"}}</a>
                     </li>
                   </ul>
                 </li>

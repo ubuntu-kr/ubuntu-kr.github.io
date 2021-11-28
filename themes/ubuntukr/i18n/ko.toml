@@ -3,6 +3,56 @@ other = "다음"
 [prev]
 other = "이전"
 
+[main_ubuntu_title]
+other = "가장 널리 쓰이는 리눅스 배포판"
+[main_ubuntu_desc]
+other = """
+우분투(Ubuntu)는 가장 널리 쓰이는 오픈소스 리눅스 배포판 중 하나 입니다.
+사용하기 쉬운 리눅스 데스크탑, 인프라 운용 소프트웨어 구성이 쉬운 서버용 리눅스 등으로도 잘 알려져 있습니다.
+데스크탑, 노트북, 서버, 클라우드, 사물인터넷, Raspberry Pi, 가전제품, 키오스크 등 다양한 유형의 환경과 디바이스에 최적화 되어 있습니다.
+"""
+
+[main_kr_loco_title]
+other = "우분투 공식 지역 커뮤니티"
+[main_kr_loco_desc]
+other = """
+우분투 한국 커뮤니티는 Ubuntu Community Council 인증 공식 우분투 지역 커뮤니티 입니다.
+온라인 커뮤니티 및 문서 서비스 제공, 각종 세미나와 컨퍼런스 개최, 우분투 및 관련 오픈소스 기술에 대한 그룹 스터디와 연구/개발 및 프로젝트 등 다양한 활동을 하고 있습니다. 
+"""
+[main_kr_loco_about]
+other = "커뮤니티 소개"
+[main_kr_loco_community_title]
+other = "커뮤니티 및 문서"
+[main_kr_loco_events_title]
+other = "행사 및 국내/해외 교류"
+[main_kr_loco_events_events]
+other = "세미나, 워크샵, 컨퍼런스"
+[main_kr_loco_collaborate]
+other = "다른 오픈소스 커뮤니티와의 연합 행사"
+[main_kr_loco_ubucon]
+other = "UbuCon Asia (우부콘 아시아)"
+[main_kr_loco_global]
+other = "해외 오픈소스 커뮤니티와 교류"
+[main_kr_loco_research_title]
+other = "연구/개발 활동"
+[main_kr_loco_research_projects]
+other = "스터디/프로젝트"
+[main_kr_loco_research_l10n]
+other = "소프트웨어 지역화(번역)"
+
+[forums]
+other = "포럼"
+[fb_groups]
+other = "페이스북 그룹"
+[wiki]
+other = "위키"
+[tutorials]
+other = "튜토리얼"
+[chat]
+other = "채팅 (Slack, IRC)"
+[mailing_list]
+other = "메일링 리스트"
+
 [footer_contact]
 other = "운영진과 연락하기(이메일)"
 [footer_src_repo]
