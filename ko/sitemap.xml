@@ -78,6 +78,16 @@
     <loc>https://ubuntu-kr.org/try/</loc>
   </url><url>
     <loc>https://ubuntu-kr.org/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ubuntu-kr.org/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://ubuntu-kr.org/about/"
+                />
   </url><url>
     <loc>https://ubuntu-kr.org/sponsors/cloudmate_co_ltd/</loc>
   </url><url>
