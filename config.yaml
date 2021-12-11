@@ -3,7 +3,7 @@ languageCode: ko-kr
 title: 'Ubuntu Korea Community'
 theme: "ubuntukr"
 buildFuture: true
-googleAnalytics: "UA-65961752-1"
+googleAnalytics: "G-S1V4C73F0T"
 params:
   contact: contact@ubuntu-kr.org
   facebook: ubuntukorea
