@@ -65,6 +65,18 @@
                 href="https://ubuntu-kr.org/en/categories/"
                 />
   </url><url>
+    <loc>https://ubuntu-kr.org/en/download/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://ubuntu-kr.org/download/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ubuntu-kr.org/en/download/"
+                />
+  </url><url>
     <loc>https://ubuntu-kr.org/en/tags/</loc>
     <xhtml:link
                 rel="alternate"

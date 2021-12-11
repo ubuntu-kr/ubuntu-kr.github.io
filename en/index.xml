@@ -16,5 +16,16 @@
       <description>Ubuntu 21.10 Impish Indri is the latest version released in Oct 2021. You can get it today, and run it on various environments such as Desktop, Servers, IoT, Cloud and much more.</description>
     </item>
     
+    <item>
+      <title>Download Ubuntu</title>
+      <link>https://ubuntu-kr.org/en/download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ubuntu-kr.org/en/download/</guid>
+      <description>Version and system requirements Ubuntu 20.04 LTS Ubuntu 20.04 LTS, the latest LTS(Long term support) version provides 5 years of maintenance and security updates for free. In most cases, LTS version is recommended for stable use.
+See Ubuntu 20.04 LTS release notes
+Ubuntu 21.10 If you want to try out latest features, Try out Ubuntu 21.10, the latest version. It provides 9 months of maintenance and security updates for free.</description>
+    </item>
+    
   </channel>
 </rss>

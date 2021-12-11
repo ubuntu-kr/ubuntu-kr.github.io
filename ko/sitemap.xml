@@ -70,6 +70,16 @@
     <loc>https://ubuntu-kr.org/projects/</loc>
   </url><url>
     <loc>https://ubuntu-kr.org/download/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ubuntu-kr.org/en/download/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://ubuntu-kr.org/download/"
+                />
   </url><url>
     <loc>https://ubuntu-kr.org/translate/</loc>
   </url><url>
