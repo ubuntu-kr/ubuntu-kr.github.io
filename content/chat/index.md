@@ -32,5 +32,6 @@ Slack 을 자주 사용한다면, 아래 링크로 바로 가입하고 입장하
  - [IRC 이용 정보 자세히 보기](https://wiki.ubuntu-kr.org/index.php/IRC_%EC%9D%B4%EC%9A%A9_%EC%A0%95%EB%B3%B4)
  - [IRC 이용 규정](https://wiki.ubuntu.com/KoreanTeam/IRC_Rules)
 
-# 채널 연동
-IRC 의 `#ubuntu-ko` 채널과, Slack 의 `#0000-general` 은 브릿지 봇으로 연동되어 있습니다. 두 채널에 있는 참여자가 양방향으로 대화할 수 있으며, 사실상 동일한 대화 채널입니다. 이용에 참고 하시기 바랍니다.
+# 참고 사항
+- IRC 의 `#ubuntu-ko` 채널과, Slack 의 `#0000-general` 은 브릿지 봇으로 연동되어 있습니다. 두 채널에 있는 참여자가 양방향으로 대화할 수 있으며, 사실상 동일한 대화 채널입니다. 
+- IRC 의 `#ubuntu-ko` 채널에서의 대화 내역은 [우분투 IRC 팀](https://wiki.ubuntu.com/IRC/IrcTeam)이 운영하는 `ubuntullog` 봇에 의해 모두 기록되고 있으며, irclogs.ubuntu.com 에서 IRC 대화 기록을 확인하실 수 있습니다.
