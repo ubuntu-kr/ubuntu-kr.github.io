@@ -63,15 +63,13 @@
     </item>
     
     <item>
-      <title>채팅(Slack, IRC)</title>
+      <title>채팅</title>
       <link>https://ubuntu-kr.org/chat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ubuntu-kr.org/chat/</guid>
-      <description>Slack Slack 을 자주 사용한다면, 아래 링크로 바로 가입하고 입장하여 대화할 수 있습니다.
- 회원가입 채널 접속 (ubuntu-kr.slack.com)  채널 목록
- 0000-general: 일반 채널 (IRC #ubuntu-ko 와 연동) 0001-notice: 공지사항 채널 0004-l10n: 우분투 번역 팀 채널 2XXX-*: 그룹 스터디용 채널 3XXX-*: 프로젝트 팀 채널  IRC 사용하시는 IRC 클라이언트가 있다면, 아래 정보로 IRC 채널에 접속하여 이용할 수 있습니다.
- 서버: irc.ubuntu.com 또는 irc.libera.chat  (irc.ubuntu.com 은 irc.libera.chat 에 포인팅 하는 주소, 즉 둘 다 Libera.</description>
+      <description>채팅 서비스 선택 Slack, Matrix (Element.io), IRC (Libera.chat) 을 통해 채팅에 참여하실 수 있습니다. 아래 정보를 참고하여 본인이 사용하기 편한 방식으로 이용해 주세요.
+ Slack: Slack Workspace 접속 (ubuntu-kr.slack.com) | 회원가입 Matrix (Element.io): Matrix Space 접속 (#ubuntu-kr) | Element.io 로그인 | Element.io 회원가입 IRC (Libera.chat): irc.libera.chat 의 #ubuntu-ko 채널 접속. (웹에서 Kiwi IRC로 바로 접속 하기)  IRC 이용정보 사용하시는 IRC 클라이언트가 있다면, 아래 정보로 IRC 채널에 접속하여 이용할 수 있습니다.</description>
     </item>
     
     <item>

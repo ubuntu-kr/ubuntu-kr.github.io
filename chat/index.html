@@ -6,10 +6,10 @@
     <link rel="apple-touch-icon" sizes="180x180" href='/img/favicon/apple-touch-icon.png'>
     <link rel="icon" type="image/png" sizes="32x32" href='/img/favicon/favicon-32x32.png'>
     <link rel="icon" type="image/png" sizes="16x16" href='/img/favicon/favicon-16x16.png'>
-    <title>채팅(Slack, IRC) | 우분투 한국 커뮤니티</title>
+    <title>채팅 | 우분투 한국 커뮤니티</title>
     
     <meta property="og:site_name" content="우분투 한국 커뮤니티" />
-    <meta property="og:title" content="채팅(Slack, IRC)" />
+    <meta property="og:title" content="채팅" />
 
     
     <link rel="stylesheet" href="https://ubuntu-kr.org/sass/theme.min.1eea6cc90470128ca8ed34d2551624c845b5a822ec11b5bf023b8d6b94fa3dd3.css">
@@ -109,7 +109,7 @@
               </li>
               
               <li>
-                <a href="/chat" class="p-navigation__dropdown-item">채팅(Slack, IRC)</a>
+                <a href="/chat" class="p-navigation__dropdown-item">채팅</a>
               </li>
               
             </ul>
@@ -205,8 +205,8 @@
       <div class="row">
         
         <div class="col-8 left-section">
-          <h1>채팅(Slack, IRC)</h1>
-          <p>Slack 또는 IRC로 채팅에 참여하여 사람들과 대회하거나 질문 및 답변을 할 수 있습니다.</p>
+          <h1>채팅</h1>
+          <p>채팅에 참여하여 사람들과 대회하거나 질문 및 답변을 할 수 있습니다.</p>
         </div>
         <div class="col-4 right-section">
           <img src="/chat/chat.svg" alt="">
@@ -216,42 +216,72 @@
   </section>
   <section class="p-strip">
   <div class="row">
-  <h1 id="slack">Slack</h1>
-<p>Slack 을 자주 사용한다면, 아래 링크로 바로 가입하고 입장하여 대화할 수 있습니다.</p>
+  <h1 id="채팅-서비스-선택">채팅 서비스 선택</h1>
+<p>Slack, Matrix (Element.io), IRC (Libera.chat) 을 통해 채팅에 참여하실 수 있습니다. 아래 정보를 참고하여 본인이 사용하기 편한 방식으로 이용해 주세요.</p>
 <ul>
-<li><a href="https://join.slack.com/t/ubuntu-kr/shared_invite/zt-5btdrsxu-Xj2IkQM17ZNyIrk5ITQF6w">회원가입</a></li>
-<li><a href="https://ubuntu-kr.slack.com">채널 접속 (ubuntu-kr.slack.com)</a></li>
+<li><strong>Slack</strong>: <a href="https://ubuntu-kr.slack.com">Slack Workspace 접속 (ubuntu-kr.slack.com)</a> | <a href="https://join.slack.com/t/ubuntu-kr/shared_invite/zt-5btdrsxu-Xj2IkQM17ZNyIrk5ITQF6w">회원가입</a></li>
+<li><strong>Matrix (Element.io)</strong>: <a href="https://matrix.to/#/#ubuntu-kr:matrix.org">Matrix Space 접속 (#ubuntu-kr)</a> | <a href="https://app.element.io/index.html#/login">Element.io 로그인</a> | <a href="https://app.element.io/index.html#/register">Element.io 회원가입</a></li>
+<li><strong>IRC (Libera.chat)</strong>: irc.libera.chat 의 #ubuntu-ko 채널 접속. <a href="http://kiwiirc.com/client/irc.libera.chat/ubuntu-ko">(웹에서 Kiwi IRC로 바로 접속 하기)</a></li>
 </ul>
-<p>채널 목록</p>
+<h2 id="irc-이용정보">IRC 이용정보</h2>
+<p>사용하시는 IRC 클라이언트가 있다면, 아래 정보로 IRC 채널에 접속하여 이용할 수 있습니다. IRC 이용시, <a href="https://wiki.ubuntu.com/KoreanTeam/IRC_Rules">IRC 이용 규정</a>을 먼저 확인 해 주시기 바랍니다.</p>
 <ul>
-<li><code>0000-general</code>: 일반 채널 (IRC <code>#ubuntu-ko</code> 와 연동)</li>
-<li><code>0001-notice</code>: 공지사항 채널</li>
-<li><code>0004-l10n</code>: 우분투 번역 팀 채널</li>
-<li><code>2XXX-*</code>: 그룹 스터디용 채널</li>
-<li><code>3XXX-*</code>: 프로젝트 팀 채널</li>
-</ul>
-<h1 id="irc">IRC</h1>
-<p>사용하시는 IRC 클라이언트가 있다면, 아래 정보로 IRC 채널에 접속하여 이용할 수 있습니다.</p>
+<li>서버: irc.libera.chat (또는 irc.ubuntu.com - irc.libera.chat 을 가리키는 주소)</li>
+<li>포트
 <ul>
-<li>서버: irc.ubuntu.com 또는 irc.libera.chat
-<ul>
-<li>(irc.ubuntu.com 은 irc.libera.chat 에 포인팅 하는 주소, 즉 둘 다 Libera.chat 네트워크)</li>
+<li>평문 통신: 6665~6667 또는 8000~8002</li>
+<li>TLS 암호화 통신: 6697, 7000, 7070</li>
 </ul>
 </li>
-<li>포트(평문 통신): 6665~6667 또는 8000~8002</li>
-<li>포트(TLS 암호화 통신): 6697, 7000, 7070</li>
 <li>채널: #ubuntu-ko</li>
-</ul>
-<p><a href="http://kiwiirc.com/client/irc.libera.chat/ubuntu-ko">여기를 클릭하여 Kiwi IRC 웹 클라이언트로 바로 접속</a>하여 이용도 가능합니다.</p>
-<ul>
 <li><a href="https://wiki.ubuntu-kr.org/index.php/IRC_%EC%9D%B4%EC%9A%A9_%EC%A0%95%EB%B3%B4">IRC 이용 정보 자세히 보기</a></li>
-<li><a href="https://wiki.ubuntu.com/KoreanTeam/IRC_Rules">IRC 이용 규정</a></li>
 </ul>
-<h1 id="참고-사항">참고 사항</h1>
-<ul>
-<li>IRC 의 <code>#ubuntu-ko</code> 채널과, Slack 의 <code>#0000-general</code> 은 브릿지 봇으로 연동되어 있습니다. 두 채널에 있는 참여자가 양방향으로 대화할 수 있으며, 사실상 동일한 대화 채널입니다.</li>
-<li>IRC 의 <code>#ubuntu-ko</code> 채널에서의 대화 내역은 <a href="https://wiki.ubuntu.com/IRC/IrcTeam">우분투 IRC 팀</a>이 운영하는 <code>ubuntullog</code> 봇에 의해 모두 기록되고 있으며, irclogs.ubuntu.com 에서 IRC 대화 기록을 확인하실 수 있습니다.</li>
-</ul>
+<h1 id="채널-목록">채널 목록</h1>
+<p>아래 채널 목록 표를 참고하여 이용해 주시기 바랍니다. 일부 채널은 서로 다른 메신저 서비와 연동 되거나, 대화 내용이 기록되고 있습니다.</p>
+<table>
+<thead>
+<tr>
+<th>채널 용도</th>
+<th><a href="https://ubuntu-kr.slack.com">Slack</a></th>
+<th><a href="https://matrix.to/#/#ubuntu-kr:matrix.org">Matrix (Element.io)</a></th>
+<th>IRC (Libera.chat)</th>
+<th>비고</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>일반적인 대화 및 질의응답</td>
+<td>0000-general</td>
+<td><a href="https://matrix.to/#/#ubuntu-ko:libera.chat">#ubuntu-ko:libera.chat</a></td>
+<td><a href="http://kiwiirc.com/client/irc.libera.chat/ubuntu-ko">#ubuntu-ko</a></td>
+<td><a href="irclogs.ubuntu.com">IRC 대화기록 확인하기</a>*</td>
+</tr>
+<tr>
+<td>번역(L10n)팀 채널</td>
+<td>0004-l10n</td>
+<td><a href="https://matrix.to/#/#ubuntu-l10n-ko:matrix.org">#ubuntu-l10n-ko:matrix.org</a></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>그룹 스터디용 채널</td>
+<td><code>2XXX-*</code></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>프로젝트 팀 채널</td>
+<td><code>3XXX-*</code></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>*IRC 의 <code>#ubuntu-ko</code> 채널에서의 대화 내역은 <a href="https://wiki.ubuntu.com/IRC/IrcTeam">우분투 IRC 팀</a>이 운영하는 <code>ubuntulog</code> 봇에 의해 모두 기록되고 있으며, irclogs.ubuntu.com 에서 IRC 대화 기록을 확인하실 수 있습니다.</p>
+</blockquote>
 
   </div>
   </section>
