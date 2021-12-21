@@ -108,7 +108,7 @@ languages:
         weight: 35
       - identifier: chat
         parent: community
-        name: 채팅(Slack, IRC)
+        name: 채팅
         url: chat
         weight: 36
       - identifier: partandcontrib
@@ -247,7 +247,7 @@ languages:
         weight: 35
       - identifier: chat
         parent: community
-        name: Chat (Slack, IRC)
+        name: Chat 
         url: chat
         weight: 36
       - identifier: partandcontrib
