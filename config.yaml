@@ -77,11 +77,16 @@ languages:
         name: 커뮤니티 소개
         url: about
         weight: 24
+      - identifier: bylaws
+        parent: about-group
+        name: 정관
+        url: bylaws
+        weight: 25
       - identifier: sponsors
         parent: about-group
         name: 후원사
         url: sponsors
-        weight: 25
+        weight: 26
       - identifier: community
         name: 커뮤니티
         url: community
@@ -216,11 +221,16 @@ languages:
         name: About our community
         url: about
         weight: 24
+      - identifier: bylaws
+        parent: about-group
+        name: Bylaws
+        url: bylaws
+        weight: 25
       - identifier: sponsors
         parent: about-group
         name: Sponsors
         url: sponsors
-        weight: 25
+        weight: 26
       - identifier: community
         name: Community
         url: community
