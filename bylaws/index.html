@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="apple-touch-icon" sizes="180x180" href='/img/favicon/apple-touch-icon.png'>
+    <link rel="icon" type="image/png" sizes="32x32" href='/img/favicon/favicon-32x32.png'>
+    <link rel="icon" type="image/png" sizes="16x16" href='/img/favicon/favicon-16x16.png'>
+    <title>정관 | 우분투 한국 커뮤니티</title>
+    
+    <meta property="og:site_name" content="우분투 한국 커뮤니티" />
+    <meta property="og:title" content="정관" />
+
+    
+    <link rel="stylesheet" href="https://ubuntu-kr.org/sass/theme.min.1eea6cc90470128ca8ed34d2551624c845b5a822ec11b5bf023b8d6b94fa3dd3.css">
+</head><body><header id="navigation" class="p-navigation is-dark">
+  <div class="p-navigation__row">
+    <div class="p-navigation__banner">
+      <div class="p-navigation__logo">
+        <a class="p-navigation__item" href="/">
+          <img class="p-navigation__image" src="/img/logo.svg" alt="우분투 한국 커뮤니티">
+        </a>
+      </div>
+      <a href="#navigation" class="p-navigation__toggle--open" title="menu">Menu</a>
+      <a href="#navigation-closed" class="p-navigation__toggle--close" title="close menu">Close menu</a>
+    </div>
+    <nav class="p-navigation__nav" aria-label="Example sub navigation">
+      <ul class="p-navigation__items">
+        
+          
+          <li class="p-navigation__item--dropdown-toggle" id="link-try">
+            <a class="p-navigation__link" aria-controls="try-menu">
+              우분투 사용해보기
+            </a>
+            <ul class="p-navigation__dropdown--right" id="try-menu" aria-hidden="true">
+              
+              <li>
+                <a href="/download" class="p-navigation__dropdown-item">내려받기</a>
+              </li>
+              
+              <li>
+                <a href="https://ubuntu.com/certified" class="p-navigation__dropdown-item">우분투 인증 하드웨어(영어)</a>
+              </li>
+              
+              <li>
+                <a href="https://wiki.ubuntu-kr.org" class="p-navigation__dropdown-item">위키(한국어)</a>
+              </li>
+              
+              <li>
+                <a href="https://ubuntu-kr.github.io/workshops/" class="p-navigation__dropdown-item">튜토리얼(한국어)</a>
+              </li>
+              
+              <li>
+                <a href="https://docs.ubuntu.com" class="p-navigation__dropdown-item">문서(영문)</a>
+              </li>
+              
+              <li>
+                <a href="https://ubuntu.com/tutorials" class="p-navigation__dropdown-item">튜토리얼(영문)</a>
+              </li>
+              
+              <li>
+                <a href="https://wiki.ubuntu.com" class="p-navigation__dropdown-item">위키(영문)</a>
+              </li>
+              
+            </ul>
+          </li>
+          
+        
+          
+          <li class="p-navigation__item--dropdown-toggle" id="link-about-group">
+            <a class="p-navigation__link" aria-controls="about-group-menu">
+              소개
+            </a>
+            <ul class="p-navigation__dropdown--right" id="about-group-menu" aria-hidden="true">
+              
+              <li>
+                <a href="/about" class="p-navigation__dropdown-item">커뮤니티 소개</a>
+              </li>
+              
+              <li>
+                <a href="/bylaws" class="p-navigation__dropdown-item">정관</a>
+              </li>
+              
+              <li>
+                <a href="/sponsors" class="p-navigation__dropdown-item">후원사</a>
+              </li>
+              
+            </ul>
+          </li>
+          
+        
+          
+          <li class="p-navigation__item--dropdown-toggle" id="link-community">
+            <a class="p-navigation__link" aria-controls="community-menu">
+              커뮤니티
+            </a>
+            <ul class="p-navigation__dropdown--right" id="community-menu" aria-hidden="true">
+              
+              <li>
+                <a href="https://forum.ubuntu-kr.org" class="p-navigation__dropdown-item">포럼</a>
+              </li>
+              
+              <li>
+                <a href="https://ask.ubuntu-kr.org" class="p-navigation__dropdown-item">Ask Ubuntu KR</a>
+              </li>
+              
+              <li>
+                <a href="https://fb.com/groups/ubuntu.ko" class="p-navigation__dropdown-item">페이스북 그룹</a>
+              </li>
+              
+              <li>
+                <a href="https://lists.ubuntu.com/archives/ubuntu-ko/" class="p-navigation__dropdown-item">메일링 리스트</a>
+              </li>
+              
+              <li>
+                <a href="/chat" class="p-navigation__dropdown-item">채팅</a>
+              </li>
+              
+            </ul>
+          </li>
+          
+        
+          
+          <li class="p-navigation__item--dropdown-toggle" id="link-partandcontrib">
+            <a class="p-navigation__link" aria-controls="partandcontrib-menu">
+              참여 및 기여하기
+            </a>
+            <ul class="p-navigation__dropdown--right" id="partandcontrib-menu" aria-hidden="true">
+              
+              <li>
+                <a href="/projects" class="p-navigation__dropdown-item">스터디/프로젝트</a>
+              </li>
+              
+              <li>
+                <a href="/translate" class="p-navigation__dropdown-item">우분투 번역하기</a>
+              </li>
+              
+              <li>
+                <a href="https://event.ubuntu-kr.org" class="p-navigation__dropdown-item">행사 참여하기</a>
+              </li>
+              
+            </ul>
+          </li>
+          
+        
+          
+          <li class="p-navigation__item--dropdown-toggle" id="link-follow">
+            <a class="p-navigation__link" aria-controls="follow-menu">
+              소식 받기
+            </a>
+            <ul class="p-navigation__dropdown--right" id="follow-menu" aria-hidden="true">
+              
+              <li>
+                <a href="https://www.youtube.com/user/UbuntuKorea" class="p-navigation__dropdown-item">YouTube</a>
+              </li>
+              
+              <li>
+                <a href="https://blog.ubuntu-kr.org" class="p-navigation__dropdown-item">블로그</a>
+              </li>
+              
+              <li>
+                <a href="https://twitter.com/UbuntuKrOrg" class="p-navigation__dropdown-item">트위터</a>
+              </li>
+              
+              <li>
+                <a href="https://fb.com/ubuntukorea" class="p-navigation__dropdown-item">페이스북</a>
+              </li>
+              
+            </ul>
+          </li>
+          
+        
+      </ul>
+     
+     <ul class="p-navigation__items">
+        <li class="p-navigation__item--dropdown-toggle" id="link-4">
+          <a class="p-navigation__link" aria-controls="account-menu">
+            🌏
+          </a>
+          <ul class="p-navigation__dropdown--right" id="account-menu" aria-hidden="true">
+            
+            
+            <li>
+              <a href="https://ubuntu-kr.org/bylaws/" class="p-navigation__dropdown-item">한국어</a>
+            </li>
+            
+            <li>
+              <a href="https://ubuntu-kr.org/en/bylaws/" class="p-navigation__dropdown-item">English</a>
+            </li>
+            
+            
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+<div id="content">
+
+
+<main>
+  <section class="p-strip--suru-topped main-strip"
+    >
+      <div class="row">
+        
+        <div class="col-8 left-section">
+          <h1>정관</h1>
+          <p></p>
+        </div>
+        <div class="col-4 right-section">
+          <img src="/bylaws/" alt="">
+        </div>
+        
+      </div>
+  </section>
+  <section class="p-strip">
+  <div class="row">
+  <a href="bylaws.pdf">
+    <button class="p-button has-icon">
+    
+    <i class="p-icon--begin-downloading"></i>
+    
+    <span>
+    정관 PDF 문서 내려받기
+    </span>
+    </button>
+</a>
+
+<h1 id="우분투한국커뮤니티-정관">우분투한국커뮤니티 정관</h1>
+<p style="text-align: end;">
+2021년 12월 19일 제정
+</p>
+
+<h2 id="제1장-총칙">제1장 총칙</h2>
+<p>제1조 (명칭)<br>
+이 단체의 명칭은 “우분투한국커뮤니티(Ubuntu Korea Community)”라 한다.</p>
+<p>제2조 (목적)<br>
+이 단체는 우분투(Ubuntu) 리눅스(Linux) 배포판과 관련 오픈소스(Open Source) 기술 및 관련 정보통신기술분야(이하 ‘주요 분야’라 한다)의 열린 공동체를 형성하여 지역, 전국 또는 국제적인 교류와 연대를 통해, 주요 분야에 대한 교류와 연구 및 개발을 촉진하고, 이를 통한 주요 분야의 발전과 혁신 및 저변확대를 이룰 수 있도록 함을 목적으로 한다.</p>
+<p>제3조 (사업)<br>
+이 단체는 제2조의 목적을 달성하기 위하여 다음 각 호의 사업을 수행한다.</p>
+<ol>
+<li>주요 분야에 대한 열린 공동체 형성을 위한 다양한 인터넷 공간 운영</li>
+<li>주요 분야에 대한 정보 문서화 및 문서 열람을 위한 인터넷 시스템 운영</li>
+<li>주요 분야의 저변 확대와 정보 및 지식 교류를 위한 다양한 행사 기획 및 개최</li>
+<li>주요 분야의 발전과 혁신을 위한 다양한 교육, 훈련, 출판, 연구 및 개발 활동</li>
+<li>주요 분야와 관련 있는 다양한 국내외 단체 및 커뮤니티와의 교류, 상호 협력, 이해 증진 및 공동 사업을 위한 다양한 활동</li>
+<li>기타 이 단체의 목적을 수행하기 위한 사업</li>
+</ol>
+<p>제4조 (사무소의 소재지)<br>
+이 단체의 주사무소는 경기도 부천시에 두며 필요에 따라 국내, 국외에 지부를 둘 수 있다.</p>
+<h2 id="제2장-회원-및-임원">제2장 회원 및 임원</h2>
+<p>제5조 (회원의 자격)<br>
+이 단체의 회원은 설립취지에 동의하고 소정의 가입신청서를 제출한 자로, 준회원과 정회원으로 구성한다</p>
+<ol>
+<li>준회원은 이 단체가 운영하는 인터넷 공간 또는 시스템에 기명 또는 익명으로 가입하여 활동하는 자로 한다.</li>
+<li>정회원은 준회원 중, 운영위원회의 승인을 받아 단체의 운영이나 목적사업을 직접 수행하거나 보조하는 자로 한다.</li>
+</ol>
+<p>제6조 (회원의 권리와 의무)</p>
+<ol>
+<li>정회원은 총회를 통하여 이 단체의 운영에 참여할 권리를 가진다.</li>
+<li>정회원은 본회의 정관, 규정 및 각종 회의의 의결사항을 준수한다.</li>
+<li>준회원은 운영에 관해 의견을 제시할 수는 있으나, 총회를 통한 의결권을 가지지 않는다.</li>
+</ol>
+<p>제7조 (회원의 탈퇴와 징계 및 제명)</p>
+<ol>
+<li>회원은 본인의 의사에 따라 자유롭게 탈퇴할 수 있다.</li>
+<li>회원이 다음 각호의 사유에 해당될 경우에는 운영위원회의 의결을 거쳐 징계 또는 제명할 수 있다.
+<ol>
+<li>본회의 명예를 손상시키고 목적수행에 지장을 초래한 경우</li>
+<li>1년 이상 회원의 의무를 준수하지 않는 자</li>
+</ol>
+</li>
+</ol>
+<p>제8조 (임원의 구성)<br>
+이 단체는 다음의 임원을 둔다.</p>
+<ol>
+<li>대표 1인</li>
+<li>대표를 포함한 운영위원 3인 이상 15인 이하</li>
+<li>감사는 총회의 결의로 둘 수 있다.</li>
+</ol>
+<p>제9조 (임원의 선임)</p>
+<ol>
+<li>대표는 제17조의 방법에 의해 총회에서 승인된 별도의 선거 관리 규정에 의해 선출한다</li>
+<li>운영위원은 대표 또는 총회의 추천을 받았거나, 자발적으로 지원한 정회원을 제17조의 방법에 의하여 총회에서 선출한다.</li>
+<li>감사는 제17조의 방법에 의하여 총회에서 선출한다.</li>
+<li>임원의 보선은 결원이 발생한 날로부터 2개월 이내로 하여야 한다.</li>
+</ol>
+<p>제10조 (임원의 해임)<br>
+임원이 다음 각호에 해당하는 행위를 한 때에는 총회의 의결로 해임할 수 있다.</p>
+<ol>
+<li>이 단체의 목적에 위배되는 행위</li>
+<li>임원간의 분쟁 · 회계부정 또는 현저한 부당행위</li>
+<li>이 단체의 업무를 방해하는 행위</li>
+</ol>
+<p>제11조 (임원의 임기)</p>
+<ol>
+<li>임원의 임기는 2년으로 하고 중임할 수 있다.</li>
+<li>보선에 의하여 선임된 임원의 임기는 전임자의 잔여기간으로 한다.</li>
+</ol>
+<p>제12조 (임원의 직무)</p>
+<ol>
+<li>대표는 이 단체를 대표하고 업무를 통할하며 총회 및 운영위원회의 의장이 된다. 대표 유고시에는 미리 운영위원회가 정한 순으로 그 직무를 대행한다.</li>
+<li>운영위원은 운영위원회를 통하여 이 단체의 주요 사항을 심의, 의결하며 운영위원회 또는 대표로부터 위임받은 사항을 처리한다.</li>
+<li>감사는 일반회계 및 운영에 대해 감사하며 부정 또는 부당한 점이 있을 경우, 운영위원회에 시정을 요구하고 그 보고를 위하여 운영위원회 또는 총회의 소집을 요구할 수 있다.</li>
+</ol>
+<h2 id="제3장-운영위원회-및-총회">제3장 운영위원회 및 총회</h2>
+<p>제13조 (운영위원회의 구성)</p>
+<ol>
+<li>대표와 운영위원으로 구성한다.</li>
+<li>감사는 운영위원회에 참석하여 발언할 수 있다.</li>
+</ol>
+<p>제14조 (운영위원회의 소집)</p>
+<ol>
+<li>운영위원회는 정기운영위원회 및 임시운영위원회로 구분하며 대표가 소집한다.</li>
+<li>정기운영위원회는 반기별로 1회 이상 소집하며 임시운영위원회는 대표, 감사 또는 재적 운영위원 1/3 이상의 서면 요청이 있을 때 소집한다.</li>
+</ol>
+<p>제15조 (의결정족수)<br>
+운영위원회는 재적 운영위원 과반수의 출석으로 개의하고 출석 운영위원 과반수의 찬성으로 의결한다.</p>
+<p>제16조 (총회)</p>
+<ol>
+<li>총회는 최고 의결기관으로 정회원으로 구성하며 정기총회와 임시총회가 있고 대표가 소집한다.</li>
+<li>정기총회는 매년 1회 회계연도 종료 후 3개월 이내에 소집하며, 임시총회는 대표 또는 감사 및 재적 정회원 1/3 이상의 서면 요청이 있을 때 소집한다.</li>
+<li>대표는 총회의 안건, 일시, 장소 등을 정하여 회의일 7일전까지 정회원이 인지할 수 있는 방식으로 통지하여야 한다.</li>
+</ol>
+<p>제17조 (의결정족수)</p>
+<ol>
+<li>재적 정회원 과반수의 출석으로 개회되며 출석 정회원 과반수의 찬성으로 의결한다.</li>
+<li>총회 의결권은 참석하는 다른 정회원에게 서면으로 위임할 수 있다. 이 경우 위임장은 총회전까지 의장에게 제출하여야 한다.</li>
+</ol>
+<p>제18조 (총회의 의결사항)<br>
+총회는 다음 사항을 심의, 의결한다.</p>
+<ol>
+<li>임원의 선출과 해임</li>
+<li>단체의 해산 및 정관 변경에 관한 사항</li>
+<li>기본재산의 취득, 처분 및 자금 차입에 관한 사항</li>
+<li>예산 및 결산의 승인</li>
+<li>사업계획의 승인</li>
+<li>기타 중요사항</li>
+</ol>
+<p>제19조 (회의록)<br>
+운영위원회 및 총회의 의사 진행 경과와 결과는 회의록으로 작성해야 하며, 의장과 참여 운영위원이 서명 또는 기명 날인한다.</p>
+<h2 id="제4장-사무국">제4장 사무국</h2>
+<p>제20조 (종사자의 구성 및 임명)</p>
+<ol>
+<li>이 단체의 업무를 효율적으로 집행하기 위하여 사무국을 두며 필요한 조직의 각 부서는 운영위원회 결의로 정한다.</li>
+<li>종사자의 임면에 관하여는 운영위원회 결의로 별도의 인사규정을 두어 정한다.</li>
+</ol>
+<h2 id="제5장-회계-및-재정">제5장 회계 및 재정</h2>
+<p>제21조 (재산의 구분)<br>
+이 단체의 재산은 기본재산과 보통재산으로 구분한다.</p>
+<ol>
+<li>기본재산은 이 단체 설립 당시 기본재산으로 출연한 재산과 운영위원회에서 기본재산으로 편입할 것을 의결할 재산으로 한다.</li>
+<li>보통재산은 그 이외의 재산으로 한다.</li>
+</ol>
+<p>제22조 (수입금)<br>
+이 단체의 수입금은 회원의 회비, 수익사업으로 취득한 수익금, 후원금 및 기타의 수입으로 한다.</p>
+<p>제23조 (출자 및 융자)<br>
+이 단체의 목적사업을 위해 총회 결의로 외부 단체의 출자나 융자를 받을 수 있다.</p>
+<p>제24조 (회계연도 및 보고)</p>
+<ol>
+<li>회계연도는 정부의 회계연도에 준한다.</li>
+<li>감사는 회계연도 종료 후 2개월 이내에 전년도 사업실적서 및 수지결산서를 작성하여 운영위원회 의결을 거쳐 총회에 보고한다.</li>
+</ol>
+<p>제25조 (보수의 지급)<br>
+원칙적으로 임원 및 회원에게 보수를 지급하지 아니한다. 다만, 활동 및 사업에 필요한 실비를 지급할 수 있다.</p>
+<p>제26조 (이익 배분 금지)<br>
+이 단체는 구성원에게 이익을 배분하지 아니한다.</p>
+<h2 id="제6장-보칙">제6장 보칙</h2>
+<p>제27조 (정관변경)<br>
+이 단체의 정관을 변경하고자 할 때에는 총회에서 재적 정회원 3분의 2 이상의 찬성으로 의결한다.</p>
+<p>제28조 (해산 및 합병)<br>
+이 단체를 해산하거나 합병하고자 할 때에는 총회에서 재적 정회원 4분의 3 이상의 찬성으로 의결한다.</p>
+<p>제29조 (잔여재산의 귀속)<br>
+이 단체를 해산하는 경우 잔여재산은 단체의 취지에 가장 가까운 비영리 단체 또는 공익적 기금에 기부한다.</p>
+<p>제30조 (서면 또는 전자통신매체를 통한 결의)<br>
+총회와 운영위원회를 포함한 각급 회의는 필요에 따라 서면 또는 전자통신매체를 통해 결의할 수 있다.</p>
+<p>제31조 (운영규정)<br>
+이 정관 규정 이외에 이 단체의 운영에 필요한 사항은 총회의 승인이 필요한 경우 총회의 의결로, 그 외에는 운영위원회 의결로 별도의 규정을 두어 정한다.</p>
+<h2 id="부칙">부칙</h2>
+<p>제1조 (시행일)</p>
+<p>이 정관은 2021년 12월 19일 부터 시행한다.</p>
+<p><p style="text-align: end;">
+위 비영리단체 “우분투한국커뮤니티”를 설립하기 위하여
+</p>
+
+<p style="text-align: end;">
+이 정관을 작성하고 설립자 전원이 이에 서명 또는 기명날인 한다.
+</p>
+</p>
+<p style="text-align: end;">
+2021년 12월 19일
+</p>
+
+
+  </div>
+  </section>
+</main>
+
+        </div><section class="p-strip--accent">
+  <div class="row">
+    <div class="col-12">
+      <h2>우분투 한국 커뮤니티</h2>
+      <ul class="p-inline-list--middot is-dark">
+        <li class="p-inline-list__item">
+          <a href="mailto:contact@ubuntu-kr.org">운영진과 연락하기(이메일)</a>
+        </li>
+        <li class="p-inline-list__item">
+          <a href="https://fb.com/ubuntukorea">Facebook</a>
+        </li>
+        <li class="p-inline-list__item">
+          <a href="https://twitter.com/UbuntuKrOrg">Twitter</a>
+        </li>
+        <li class="p-inline-list__item">
+          <a href="https://www.youtube.com/user/UbuntuKorea">YouTube</a>
+        </li>
+        <li class="p-inline-list__item">
+          <a href="https://github.com/ubuntu-kr">GitHub</a>
+        </li>
+        <li class="p-inline-list__item">
+          <a href="https://launchpad.net/~ubuntu-ko">Launchpad</a>
+        </li>
+      </ul>
+      <p>© 2021 우분투 한국 커뮤니티 (우분투 한국 로컬 커뮤니티 팀). 별도 고지가 있는 경우를 제외하고, 웹 사이트 소스코드는 MIT, 웹 사이트의 컨텐츠는 CC BY-SA 4.0 라이선스로 이용 가능합니다. Ubuntu 및 Canonical 은 Canonical Ltd. 의 등록 상표입니다.</p>
+      <a href="https://github.com/ubuntu-kr/ubuntu-kr.github.io">GitHub에서 소스코드 보기</a>
+    </div>
+  </div><script type="text/javascript" src='/js/ubuntukr.js'></script>
+<script>
+
+let slides = document.getElementsByClassName("main-slide");
+let index = 0;
+let count = slides.length;
+function setSlideIndex(destination) {
+    index = destination % count;
+    index = index < 0 ? index * -1 : index;
+    for (let i = 0; i < count; i++) {
+        if(i == index) {
+            slides[i].style.display = "block";
+        } else {
+            slides[i].style.display = "none";
+        }
+    }
+}
+function nextSlide() {
+    setSlideIndex(index + 1);
+}
+function prevSlide() {
+    setSlideIndex(index - 1);
+}
+setSlideIndex(0);
+setInterval(nextSlide, 5000);
+</script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S1V4C73F0T"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-S1V4C73F0T', { 'anonymize_ip': false });
+}
+</script>
+</body>
+</html>

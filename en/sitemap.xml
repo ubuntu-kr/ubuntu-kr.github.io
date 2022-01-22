@@ -53,6 +53,18 @@
                 href="https://ubuntu-kr.org/en/about/"
                 />
   </url><url>
+    <loc>https://ubuntu-kr.org/en/bylaws/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://ubuntu-kr.org/bylaws/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ubuntu-kr.org/en/bylaws/"
+                />
+  </url><url>
     <loc>https://ubuntu-kr.org/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
