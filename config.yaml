@@ -104,7 +104,7 @@ languages:
       - identifier: fb-group
         parent: community
         name: 페이스북 그룹
-        url: https://fb.com/groups/ubuntu.ko
+        url: https://www.facebook.com/groups/ubuntu.ko
         weight: 34
       - identifier: lists
         parent: community
@@ -248,7 +248,7 @@ languages:
       - identifier: fb-group
         parent: community
         name: Facebook Group
-        url: https://fb.com/groups/ubuntu.ko
+        url: https://www.facebook.com/groups/ubuntu.ko
         weight: 34
       - identifier: lists
         parent: community
