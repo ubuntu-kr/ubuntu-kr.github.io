@@ -4,9 +4,9 @@ description: "최신 버전의 우분투를 내려받아 다양한 환경에 설
 image: "download.svg"
 backgroundType: suru #light, dark, accent, suru, suru-topped, image
 ubuntuVersions:
-    ltsVersion: "20.04 LTS"
+    ltsVersion: "22.04 LTS"
     normalVersion: "21.10"
-    ltsReleaseNote: https://wiki.ubuntu.com/FocalFossa/ReleaseNotes
+    ltsReleaseNote: https://discourse.ubuntu.com/t/jammy-jellyfish-release-notes/24668
     normalReleaseNote: https://discourse.ubuntu.com/t/impish-indri-release-notes/21951
 mirrors:
    - name: 
