@@ -58,6 +58,7 @@ mirrors:
 {{< button text="Harukasan (부경대학교)" href="https://ftp.harukasan.org/ubuntu-releases/HEADER.html" icon="begin-downloading" >}}
 {{< button text="Misaka Mikoto Network Mirror" href="https://mirror.misakamikoto.network/ubuntu-releases/" icon="begin-downloading" >}}
 
+[Launchpad.net 에서 모든 우분투 공식 미러 목록 보기](https://launchpad.net/ubuntu/+archivemirrors)
 
 # 설치 및 사용하기
 

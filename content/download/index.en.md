@@ -58,6 +58,8 @@ You can download Desktop and Server CD/DVD images from Korean Mirror servers wit
 {{< button text="Harukasan (Pukyong University)" href="https://ftp.harukasan.org/ubuntu-releases/HEADER.html" icon="begin-downloading" >}}
 {{< button text="Misaka Mikoto Network Mirror" href="https://mirror.misakamikoto.network/ubuntu-releases/" icon="begin-downloading" >}}
 
+[See list of All Official Archive Mirrors for Ubuntu on Launchpad.net](https://launchpad.net/ubuntu/+archivemirrors)
+
 # How to install and use
 
 ## Desktop & Server
