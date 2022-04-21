@@ -1,5 +1,5 @@
 ---
-title: "Ubuntu 21.10"
+title: "Ubuntu 22.04 LTS"
 backgroundType: suru #light, dark, accent, suru, suru-topped, image
 colorScheme: dark #dark, light
 image: impish.svg
@@ -8,6 +8,6 @@ buttons:
     - label: Download
       url: download
 draft: false
-date: 2021-11-11
+date: 2022-04-22
 ---
-Ubuntu 21.10 Impish Indri is the latest version released in Oct 2021. You can get it today, and run it on various environments such as Desktop, Servers, IoT, Cloud and much more.
+Ubuntu 22.04 LTS Jammy Jellyfish is the latest version released in Aptril 2022. You can get it today, and run it on various environments such as Desktop, Servers, IoT, Cloud and much more.
