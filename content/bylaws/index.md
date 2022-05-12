@@ -9,7 +9,7 @@ backgroundType: suru-topped #light, dark, accent, suru, suru-topped, image
 # 우분투한국커뮤니티 정관
 
 {{< txt_align_end >}}
-2022년 05월 11일 개정  
+2022년 05월 11일 개정</br>
 2021년 12월 19일 제정
 {{< /txt_align_end >}}
 
