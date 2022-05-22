@@ -2,7 +2,7 @@
 title: "Ubuntu 22.04 LTS"
 backgroundType: suru #light, dark, accent, suru, suru-topped, image
 colorScheme: dark #dark, light
-image: impish.svg
+image: jammy.svg
 # backgroundImage: bg.png
 buttons:
     - label: Download
