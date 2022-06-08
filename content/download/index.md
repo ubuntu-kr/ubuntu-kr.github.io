@@ -6,6 +6,7 @@ backgroundType: suru #light, dark, accent, suru, suru-topped, image
 ubuntuVersions:
     ltsVersion: "22.04 LTS"
     normalVersion: "21.10"
+    ltsReleaseNoteKor: https://blog.ubuntu-kr.org/2022/04/22/jamme-jellyfish-release-notes/
     ltsReleaseNote: https://discourse.ubuntu.com/t/jammy-jellyfish-release-notes/24668
     normalReleaseNote: https://discourse.ubuntu.com/t/impish-indri-release-notes/21951
 mirrors:
@@ -18,6 +19,7 @@ mirrors:
 가장 최근 출시된 LTS(장기 지원) 버전인 우분투 {{< param "ubuntuVersions.ltsVersion" >}}는 5년간 유지보수 및 보안 업데이트가 무료로 제공됩니다.
 대부분의 경우, 안정적인 사용을 위해 LTS 버전 사용이 권장됩니다.
 
+[우분투 {{< param "ubuntuVersions.ltsVersion" >}} 릴리즈 노트 보기(한국어 번역)]({{< param "ubuntuVersions.ltsReleaseNoteKor" >}})
 [우분투 {{< param "ubuntuVersions.ltsVersion" >}} 릴리즈 노트 보기]({{< param "ubuntuVersions.ltsReleaseNote" >}})
 
 ## 우분투 {{< param "ubuntuVersions.normalVersion" >}}

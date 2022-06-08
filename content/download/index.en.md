@@ -6,6 +6,7 @@ backgroundType: suru #light, dark, accent, suru, suru-topped, image
 ubuntuVersions:
     ltsVersion: "22.04 LTS"
     normalVersion: "21.10"
+    ltsReleaseNoteKor: https://blog.ubuntu-kr.org/2022/04/22/jamme-jellyfish-release-notes/
     ltsReleaseNote: https://discourse.ubuntu.com/t/jammy-jellyfish-release-notes/24668
     normalReleaseNote: https://discourse.ubuntu.com/t/impish-indri-release-notes/21951
 mirrors:
@@ -18,6 +19,7 @@ mirrors:
 Ubuntu {{< param "ubuntuVersions.ltsVersion" >}}, the latest LTS(Long term support) version provides 5 years of maintenance and security updates for free.
 In most cases, LTS version is recommended for stable use.
 
+[See Ubuntu {{< param "ubuntuVersions.ltsVersion" >}} release notes (Korean translation)]({{< param "ubuntuVersions.ltsReleaseNoteKor" >}})
 [See Ubuntu {{< param "ubuntuVersions.ltsVersion" >}} release notes]({{< param "ubuntuVersions.ltsReleaseNote" >}})
 
 ## Ubuntu {{< param "ubuntuVersions.normalVersion" >}}
