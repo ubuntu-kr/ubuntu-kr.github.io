@@ -10,6 +10,7 @@ params:
   twitter: UbuntuKrOrg
   github: ubuntu-kr
   launchpad: ubuntu-ko
+  mastodon: https://mastodon.social/@UbuntuKrOrg
   youtube: https://www.youtube.com/user/UbuntuKorea
   source_repo: https://github.com/ubuntu-kr/ubuntu-kr.github.io
 defaultContentLanguage: ko
