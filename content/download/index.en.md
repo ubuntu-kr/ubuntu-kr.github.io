@@ -5,10 +5,10 @@ image: "download.svg"
 backgroundType: suru #light, dark, accent, suru, suru-topped, image
 ubuntuVersions:
     ltsVersion: "22.04 LTS"
-    normalVersion: "21.10"
+    normalVersion: "22.10"
     ltsReleaseNoteKor: https://blog.ubuntu-kr.org/2022/04/22/jamme-jellyfish-release-notes/
     ltsReleaseNote: https://discourse.ubuntu.com/t/jammy-jellyfish-release-notes/24668
-    normalReleaseNote: https://discourse.ubuntu.com/t/impish-indri-release-notes/21951
+    normalReleaseNote: https://discourse.ubuntu.com/t/kinetic-kudu-release-notes/27976
 mirrors:
    - name: 
      url: https://ftp.harukasan.org/ubuntu-releases/HEADER.html
