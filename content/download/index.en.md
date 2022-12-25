@@ -107,12 +107,12 @@ If you need help while using, You can get help on online community such as forum
 
 {{< info title="Note" content="Ubuntu Korea Community is a non-profit community consists of users and developers and independent from Canonical Ltd. We do not provide any commercial technical support and answers for related inqueires. If you need commercial support for Ubuntu, Check out informations below and get support from Canonical Ltd. or Canonical Partners.">}}
 
-## Ubuntu Advantage
-Get commercial technical support from Canonical Ltd. the publisher of Ubuntu with Ubuntu Advantage program.
-Available plans are Essential(Free), Standard(Paid) and Advanced(Paid). You can get support for Desktops, Servers, VMs and applications(e.g. MySQL, MongoDB, NGINX, Kafka and more).
+## Ubuntu Pro (Formerly Ubuntu Advantage)
+Get commercial technical support from Canonical Ltd. the publisher of Ubuntu with Ubuntu Pro program.
+Available plans are Free, Infra-only and Full Ubuntu Pro. You can get support for Desktops, Servers, VMs and applications(e.g. MySQL, MongoDB, NGINX, Kafka and more).
 
 
-{{< button text="Ubuntu Advantage" href="https://ubuntu.com/advantage" icon="information" >}}
+{{< button text="Ubuntu Pro" href="https://ubuntu.com/pro" icon="information" >}}
 
 ## Ubuntu Pro for Public Clouds
 Using AWS, Google Cloud, Microsoft Azure? Create VM workloads with Ubuntu Pro, a premium Ubuntu image from Canonical Ltd. and get commercial technical support without additional contracts.
