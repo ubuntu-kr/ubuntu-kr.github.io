@@ -6,14 +6,14 @@
     <description>Recent content on Ubuntu Korea Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Fri, 22 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ubuntu-kr.org/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ubuntu-kr.org/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ubuntu 22.04 LTS</title>
+      <title>Ubuntu 22.10</title>
       <link>https://ubuntu-kr.org/en/slides/ubuntu/</link>
-      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ubuntu-kr.org/en/slides/ubuntu/</guid>
-      <description>Ubuntu 22.04 LTS Jammy Jellyfish is the latest version released in Aptril 2022. You can get it today, and run it on various environments such as Desktop, Servers, IoT, Cloud and much more.</description>
+      <description>Ubuntu 22.10 Kinetic Kudu is the latest version released in October 2022. You can get it today, and run it on various environments such as Desktop, Servers, IoT, Cloud and much more.</description>
     </item>
     
     <item>
@@ -33,7 +33,7 @@
       <guid>https://ubuntu-kr.org/en/download/</guid>
       <description>Version and system requirements Ubuntu 22.04 LTS Ubuntu 22.04 LTS, the latest LTS(Long term support) version provides 5 years of maintenance and security updates for free. In most cases, LTS version is recommended for stable use.
 See Ubuntu 22.04 LTS release notes (Korean translation) See Ubuntu 22.04 LTS release notes
-Ubuntu 21.10 If you want to try out latest features, Try out Ubuntu 21.10, the latest version. It provides 9 months of maintenance and security updates for free.</description>
+Ubuntu 22.10 If you want to try out latest features, Try out Ubuntu 22.10, the latest version. It provides 9 months of maintenance and security updates for free.</description>
     </item>
     
   </channel>

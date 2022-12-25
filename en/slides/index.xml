@@ -6,14 +6,14 @@
     <description>Recent content in Slides on Ubuntu Korea Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Fri, 22 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ubuntu-kr.org/en/slides/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ubuntu-kr.org/en/slides/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ubuntu 22.04 LTS</title>
+      <title>Ubuntu 22.10</title>
       <link>https://ubuntu-kr.org/en/slides/ubuntu/</link>
-      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ubuntu-kr.org/en/slides/ubuntu/</guid>
-      <description>Ubuntu 22.04 LTS Jammy Jellyfish is the latest version released in Aptril 2022. You can get it today, and run it on various environments such as Desktop, Servers, IoT, Cloud and much more.</description>
+      <description>Ubuntu 22.10 Kinetic Kudu is the latest version released in October 2022. You can get it today, and run it on various environments such as Desktop, Servers, IoT, Cloud and much more.</description>
     </item>
     
   </channel>
