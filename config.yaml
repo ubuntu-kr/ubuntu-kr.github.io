@@ -78,10 +78,10 @@ languages:
         name: 커뮤니티 소개
         url: about
         weight: 24
-      - identifier: bylaws
+      - identifier: legal
         parent: about-group
-        name: 정관
-        url: bylaws
+        name: 정관 및 세칙
+        url: https://disclosures.ubuntu-kr.org/legal/
         weight: 25
       - identifier: sponsors
         parent: about-group
@@ -117,6 +117,11 @@ languages:
         name: 채팅
         url: chat
         weight: 36
+      - identifier: disclosures
+        parent: community
+        name: 공시
+        url: https://disclosures.ubuntu-kr.org/legal/
+        weight: 37
       - identifier: partandcontrib
         name: 참여 및 기여하기
         url: partandcontrib
