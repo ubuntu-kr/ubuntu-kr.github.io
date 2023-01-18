@@ -83,18 +83,6 @@
   </url><url>
     <loc>https://ubuntu-kr.org/translate/</loc>
   </url><url>
-    <loc>https://ubuntu-kr.org/bylaws/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ubuntu-kr.org/en/bylaws/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://ubuntu-kr.org/bylaws/"
-                />
-  </url><url>
     <loc>https://ubuntu-kr.org/chat/</loc>
   </url><url>
     <loc>https://ubuntu-kr.org/try/</loc>
