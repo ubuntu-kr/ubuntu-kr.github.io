@@ -120,7 +120,7 @@ languages:
       - identifier: disclosures
         parent: community
         name: 공시
-        url: https://disclosures.ubuntu-kr.org/legal/
+        url: https://disclosures.ubuntu-kr.org/
         weight: 37
       - identifier: partandcontrib
         name: 참여 및 기여하기
