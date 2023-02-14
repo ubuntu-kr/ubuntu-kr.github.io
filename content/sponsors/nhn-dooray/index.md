@@ -1,6 +1,6 @@
 ---
 title: "NHN Dooray!"
-image: "logo.svg"
+image: "logo.png"
 background: ""
 backgroundType: suru-topped
 buttons:
