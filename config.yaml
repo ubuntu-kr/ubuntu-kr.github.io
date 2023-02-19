@@ -12,6 +12,7 @@ params:
   launchpad: ubuntu-ko
   mastodon: https://mastodon.social/@UbuntuKrOrg
   youtube: https://www.youtube.com/user/UbuntuKorea
+  linkedin: https://www.linkedin.com/company/ubuntu-kr/
   source_repo: https://github.com/ubuntu-kr/ubuntu-kr.github.io
 defaultContentLanguage: ko
 languages:
@@ -164,6 +165,16 @@ languages:
         name: YouTube
         url: https://www.youtube.com/user/UbuntuKorea
         weight: 4
+      - identifier: youtube
+        parent: follow
+        name: 마스토돈
+        url: https://mastodon.social/@UbuntuKrOrg
+        weight: 4
+      - identifier: youtube
+        parent: follow
+        name: 링크드인
+        url: https://www.linkedin.com/company/ubuntu-kr/
+        weight: 4
   en:
     languageName: English
     title: Ubuntu Korea Community
@@ -307,4 +318,14 @@ languages:
         parent: follow
         name: YouTube
         url: https://www.youtube.com/user/UbuntuKorea
+        weight: 4
+      - identifier: youtube
+        parent: follow
+        name: Mastodon
+        url: https://mastodon.social/@UbuntuKrOrg
+        weight: 4
+      - identifier: youtube
+        parent: follow
+        name: LinkedIn
+        url: https://www.linkedin.com/company/ubuntu-kr/
         weight: 4
