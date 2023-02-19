@@ -165,12 +165,12 @@ languages:
         name: YouTube
         url: https://www.youtube.com/user/UbuntuKorea
         weight: 4
-      - identifier: youtube
+      - identifier: mastodon
         parent: follow
         name: 마스토돈
         url: https://mastodon.social/@UbuntuKrOrg
         weight: 4
-      - identifier: youtube
+      - identifier: linkedin
         parent: follow
         name: 링크드인
         url: https://www.linkedin.com/company/ubuntu-kr/
@@ -319,12 +319,12 @@ languages:
         name: YouTube
         url: https://www.youtube.com/user/UbuntuKorea
         weight: 4
-      - identifier: youtube
+      - identifier: mastodon
         parent: follow
         name: Mastodon
         url: https://mastodon.social/@UbuntuKrOrg
         weight: 4
-      - identifier: youtube
+      - identifier: linkedin
         parent: follow
         name: LinkedIn
         url: https://www.linkedin.com/company/ubuntu-kr/
