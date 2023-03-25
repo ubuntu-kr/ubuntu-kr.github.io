@@ -95,8 +95,8 @@ languages:
         weight: 3
       - identifier: forum
         parent: community
-        name: 포럼
-        url: https://forum.ubuntu-kr.org
+        name: 포럼 (Discourse)
+        url: https://discourse.ubuntu-kr.org
         weight: 32
       - identifier: askubuntukr
         parent: community
@@ -254,8 +254,8 @@ languages:
         weight: 3
       - identifier: forum
         parent: community
-        name: Forum
-        url: https://forum.ubuntu-kr.org
+        name: Forum (Discourse)
+        url: https://discourse.ubuntu-kr.org
         weight: 32
       - identifier: askubuntukr
         parent: community
