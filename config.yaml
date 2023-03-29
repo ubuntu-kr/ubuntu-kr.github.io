@@ -14,6 +14,7 @@ params:
   youtube: https://www.youtube.com/user/UbuntuKorea
   linkedin: https://www.linkedin.com/company/ubuntu-kr/
   source_repo: https://github.com/ubuntu-kr/ubuntu-kr.github.io
+  privacyPolicy: https://disclosures.ubuntu-kr.org/privacy-policy/
 defaultContentLanguage: ko
 languages:
   ko:
