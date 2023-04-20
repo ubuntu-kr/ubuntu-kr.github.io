@@ -5,13 +5,10 @@ image: "download.svg"
 backgroundType: suru #light, dark, accent, suru, suru-topped, image
 ubuntuVersions:
     ltsVersion: "22.04 LTS"
-    normalVersion: "22.10"
+    normalVersion: "23.04"
     ltsReleaseNoteKor: https://blog.ubuntu-kr.org/2022/04/22/jamme-jellyfish-release-notes/
     ltsReleaseNote: https://discourse.ubuntu.com/t/jammy-jellyfish-release-notes/24668
-    normalReleaseNote: https://discourse.ubuntu.com/t/kinetic-kudu-release-notes/27976
-mirrors:
-   - name: 
-     url: https://ftp.harukasan.org/ubuntu-releases/HEADER.html
+    normalReleaseNote: https://discourse.ubuntu.com/t/lunar-lobster-release-notes/31910
 ---
 
 # 버전 및 요구사양
@@ -94,8 +91,7 @@ mirrors:
 # 도움 받기
 사용 중 도움이 필요하시면, 포럼과 채팅 등 다양한 온라인 커뮤니티에서 도움을 받으실 수 있습니다.
 
-{{< button text="포럼" href="https://forum.ubuntu-kr.org/" >}}
-{{< button text="페이스북 그룹" href="https://fb.com/groups/ubuntu.ko" >}}
+{{< button text="포럼" href="https://discourse.ubuntu-kr.org/" >}}
 {{< button text="메일링 리스트" href="https://lists.ubuntu.com/archives/ubuntu-ko/" >}}
 {{< button text="채팅 (Slack, IRC)" href="../chat" >}}
 

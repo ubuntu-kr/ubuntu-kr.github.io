@@ -5,13 +5,11 @@ image: "download.svg"
 backgroundType: suru #light, dark, accent, suru, suru-topped, image
 ubuntuVersions:
     ltsVersion: "22.04 LTS"
-    normalVersion: "22.10"
+    normalVersion: "23.04"
     ltsReleaseNoteKor: https://blog.ubuntu-kr.org/2022/04/22/jamme-jellyfish-release-notes/
     ltsReleaseNote: https://discourse.ubuntu.com/t/jammy-jellyfish-release-notes/24668
-    normalReleaseNote: https://discourse.ubuntu.com/t/kinetic-kudu-release-notes/27976
-mirrors:
-   - name: 
-     url: https://ftp.harukasan.org/ubuntu-releases/HEADER.html
+    normalReleaseNote: https://discourse.ubuntu.com/t/lunar-lobster-release-notes/31910
+
 ---
 
 # Version and system requirements
@@ -94,8 +92,7 @@ Images for System Containers (VM Style Containers): Used with LXD and LXC for re
 # Get help
 If you need help while using, You can get help on online community such as forums and online chat.
 
-{{< button text="Forums (Korean)" href="https://forum.ubuntu-kr.org/" >}}
-{{< button text="Facebook Group (Korean)" href="https://fb.com/groups/ubuntu.ko" >}}
+{{< button text="Forums (Korean)" href="https://discourse.ubuntu-kr.org/" >}}
 {{< button text="Mailing List (Korean)" href="https://lists.ubuntu.com/archives/ubuntu-ko/" >}}
 {{< button text="Chat (Slack, IRC)" href="../chat" >}}
 
