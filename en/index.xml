@@ -23,8 +23,7 @@
       
       <guid>https://ubuntu-kr.org/en/download/</guid>
       <description>Version and system requirements Ubuntu 22.04 LTS Ubuntu 22.04 LTS, the latest LTS(Long term support) version provides 5 years of maintenance and security updates for free. In most cases, LTS version is recommended for stable use.
-See Ubuntu 22.04 LTS release notes (Korean translation) See Ubuntu 22.04 LTS release notes
-Ubuntu 23.04 If you want to try out latest features, Try out Ubuntu 23.04, the latest version. It provides 9 months of maintenance and security updates for free.</description>
+ See Ubuntu 22.04 LTS release notes (Korean translation) See Ubuntu 22.04 LTS release notes  Ubuntu 23.04 If you want to try out latest features, Try out Ubuntu 23.04, the latest version. It provides 9 months of maintenance and security updates for free.</description>
     </item>
     
   </channel>
