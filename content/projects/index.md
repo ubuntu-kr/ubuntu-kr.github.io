@@ -28,3 +28,16 @@ backgroundType: suru-topped #light, dark, accent, suru, suru-topped, image
 
 - [진행 중이거나 과거 진행된 프로젝트 보기](https://wiki.ubuntu-kr.org/index.php/%EC%9A%B0%EB%B6%84%ED%88%AC_%ED%95%9C%EA%B5%AD_%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%AA%A9%EB%A1%9D)
 - [GitHub Organization 보기](https://github.com/ubuntu-kr)
+
+# 커뮤니티 활동 지침
+커뮤니티 활동을 시작할 때의 좋은 아이디어와 사람들의 에너지는 항상 진일보 된 결과로 마무리 돼야 합니다.
+그룹 스터디나 프로젝트를 모여 진행할 때에는 크든 작든 항상 어려움을 만날 수 있기 때문에 끝에선 처음에 생각한데로 되지 않을 수 있습니다. 그렇기에 우리는 커뮤니티의 모든 활동들은 모종의 결과물을 남기면서 마무리 되어야 한다고 믿고 있습니다. 활동 일지의 기록이나 스터디의 중간 성과들을 정리해 놓는 것은 점진적인 발전, 활동 홍보, 활발한 토론을 가능하게 만듭니다.
+따라서 다음과 같이 일련의 활동을 진행하고 정리하길 제안합니다.
+
+1. Ubuntu Code of Conduct 준수하기
+
+
+2. 함께 블로그에서 정리하기
+우리 커뮤니티는 [Discourse](https://discourse.ubuntu-kr.org/)에 블로그 포스팅이 자동으로 개시 되어 사이트 내에서 토론할 수 있기 때문에 활동을 하면서 블로그를 적극 활용 하십시오.
+
+3. Discourse에서 토론하기
