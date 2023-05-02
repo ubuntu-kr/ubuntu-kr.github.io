@@ -19,4 +19,5 @@ OpenUP, 오픈소스 소프트웨어 통합 지원 센터는 정보통신산업�
 
 ## 후원 세부사항
 - 커뮤니티 행사 개최나 스터디/프로젝트 모임 진행을 위한 장소 대관, 화상 회의 플랫폼 등을 커뮤니티 지원 프로그램을 통해 제공하고 있습니다. 
+- [지난 UbuCon Asia 2022에 정부기관 후원사로 참여하였습니다.](https://2022.ubucon.asia/ko/sponsors/nipa-kr/)
 - [지난 UbuCon Asia 2021에 Bronze 후원사로 참여하였습니다.](https://2021.ubucon.asia/ko/sponsors/nipa-kr/)
