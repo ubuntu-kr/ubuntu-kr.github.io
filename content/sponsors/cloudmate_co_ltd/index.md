@@ -20,5 +20,6 @@ buttons:
 클라우드에 대한 열정 가득한 인재들로 구성되어 끊임없이 관련 기술을 공부하고, 습득한 지식을 함께 나누어 고객 비즈니스 가치를 향상시키는 것이 저희의 미션입니다.
 
 ## 후원 세부사항
-- 커뮤니티 웹사이트, 포럼, 위키의 안정적 운영을 위한 클라우드 인프라를 Microsoft Azure 를 통해 후원하고 있습니다. 
+- 커뮤니티 웹사이트, 포럼, 위키의 안정적 운영을 위한 클라우드 인프라를 Microsoft Azure, Amazon Web Services 를 통해 후원하고 있습니다. 
+- [지난 UbuCon Asia 2022에 Bronze 후원사로 참여하였습니다.](https://2022.ubucon.asia/sponsors/cloudmate/)
 - [지난 UbuCon Asia 2021에 Silver 후원사로 참여하였습니다.](https://2021.ubucon.asia/sponsors/cloudmate/)
