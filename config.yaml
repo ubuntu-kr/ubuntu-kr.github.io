@@ -99,11 +99,6 @@ languages:
         name: 포럼 (Discourse)
         url: https://discourse.ubuntu-kr.org
         weight: 32
-      - identifier: askubuntukr
-        parent: community
-        name: Ask Ubuntu KR
-        url: https://ask.ubuntu-kr.org
-        weight: 33
       - identifier: fb-group
         parent: community
         name: 페이스북 그룹
@@ -258,11 +253,6 @@ languages:
         name: Forum (Discourse)
         url: https://discourse.ubuntu-kr.org
         weight: 32
-      - identifier: askubuntukr
-        parent: community
-        name: Ask Ubuntu KR
-        url: https://ask.ubuntu-kr.org
-        weight: 33
       - identifier: fb-group
         parent: community
         name: Facebook Group
