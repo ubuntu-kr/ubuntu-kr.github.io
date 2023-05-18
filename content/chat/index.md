@@ -8,7 +8,7 @@ backgroundType: suru-topped
 # 채팅 서비스 선택
 Discord, Matrix (Element.io), IRC (Libera.chat) 로 채팅에 참여하실 수 있습니다. 아래 정보를 참고하여 본인이 사용하기 편한 방식으로 이용해 주세요.
 
-- **Discord**: [Discord 서버 들어가기](https://discord.gg/zJBaD6SmGz) | [Discord 로그인](https://discord.com/login)
+- **Discord**: [Discord 서버 들어가기](https://discord.gg/sUvF7PAgNd) | [Discord 로그인](https://discord.com/login)
 - **Matrix (Element.io)**: [Matrix Space 접속 (#ubuntu-kr)](https://matrix.to/#/#ubuntu-kr:matrix.org) | [Element.io 로그인](https://app.element.io/index.html#/login) | [Element.io 회원가입](https://app.element.io/index.html#/register)
 - **IRC (Libera.chat)**: irc.libera.chat 의 #ubuntu-kr 채널 접속. [(웹에서 Kiwi IRC로 바로 접속 하기)](http://kiwiirc.com/client/irc.libera.chat/ubuntu-kr)
 
