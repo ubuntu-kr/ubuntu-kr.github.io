@@ -40,3 +40,9 @@ IRC 이용시, 아래 규정을 먼저 확인 해 주시기 바랍니다.
 
 
 > *IRC 의 `#ubuntu-kr` 채널에서의 대화 내역은 Canonical IS 팀이 운영하는 `ubuntulog` 봇에 의해 모두 기록되고 있으며, irclogs.ubuntu.com 에서 IRC 대화 기록을 확인하실 수 있습니다. 또한, 연동된 다른 메신저의 채널에도 IRC 관련 규정이 적용되니 이용에 참고 해 주시기 바랍니다. 
+
+## 메신저간 연동 브릿지 정보
+서로 다른 메신저간 연동을 위해, 아래와 같은 브릿지 서비스를 이용해 연동하고 있습니다. 간혹 서로 다른 메신저간 메시지가 전달이 지연 되거나 전달이 안 되는 경우가 있는데, 브릿지 서비스 관련 문제일 수 있습니다. 아래 링크에서 각 브릿지 서비스 정보와, 서비스 상태를 확인할 수 있습니다.
+
+- t2bot.io: Discord - Matrix 연동: [정보](https://t2bot.io/), [서비스 상태](https://status.t2bot.io/785547346)
+- Libera.chat IRC Bridge: Matrix - IRC 연동: [정보](https://matrix-org.github.io/matrix-appservice-irc/latest/bridged_networks.html), [서비스 상태](https://status.matrix.org/)
