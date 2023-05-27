@@ -54,8 +54,8 @@ ubuntuVersions:
 {{< button text="카카오 (Kakao Corp.)" href="https://mirror.kakao.com/ubuntu-releases/" icon="begin-downloading" >}}
 {{< button text="LANET" href="https://ftp.lanet.kr/ubuntu-releases/" icon="begin-downloading" >}}
 {{< button text="AniGil Linux Archive" href="https://mirror.anigil.com/ubuntu-cd/HEADER.html" icon="begin-downloading" >}}
-{{< button text="Harukasan (부경대학교)" href="https://ftp.harukasan.org/ubuntu-releases/HEADER.html" icon="begin-downloading" >}}
-{{< button text="Misaka Mikoto Network Mirror" href="https://mirror.misakamikoto.network/ubuntu-releases/" icon="begin-downloading" >}}
+{{< button text="Yuki Network Mirror" href="https://mirror.yuki.net.uk/ubuntu-releases/" icon="begin-downloading" >}}
+{{< button text="DevPG" href="https://devpg.net/ubuntu_cd/HEADER.html" icon="begin-downloading" >}}
 
 [Launchpad.net 에서 모든 우분투 공식 미러 목록 보기](https://launchpad.net/ubuntu/+archivemirrors)
 

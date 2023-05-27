@@ -55,8 +55,8 @@ You can download Desktop and Server CD/DVD images from Korean Mirror servers wit
 {{< button text="Kakao Corp." href="https://mirror.kakao.com/ubuntu-releases/" icon="begin-downloading" >}}
 {{< button text="LANET" href="https://ftp.lanet.kr/ubuntu-releases/" icon="begin-downloading" >}}
 {{< button text="AniGil Linux Archive" href="https://mirror.anigil.com/ubuntu-cd/HEADER.html" icon="begin-downloading" >}}
-{{< button text="Harukasan (Pukyong University)" href="https://ftp.harukasan.org/ubuntu-releases/HEADER.html" icon="begin-downloading" >}}
-{{< button text="Misaka Mikoto Network Mirror" href="https://mirror.misakamikoto.network/ubuntu-releases/" icon="begin-downloading" >}}
+{{< button text="Yuki Network Mirror" href="https://mirror.yuki.net.uk/ubuntu-releases/" icon="begin-downloading" >}}
+{{< button text="DevPG" href="https://devpg.net/ubuntu_cd/HEADER.html" icon="begin-downloading" >}}
 
 [See list of All Official Archive Mirrors for Ubuntu on Launchpad.net](https://launchpad.net/ubuntu/+archivemirrors)
 
