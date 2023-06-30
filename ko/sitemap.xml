@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ubuntu-kr.org/slides/</loc>
-    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://ubuntu-kr.org/slides/"
+                />
+  </url><url>
+    <loc>https://ubuntu-kr.org/slides/ubucon-kr-2023/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ubuntu-kr.org/en/slides/ubucon-kr-2023/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://ubuntu-kr.org/slides/ubucon-kr-2023/"
+                />
+  </url><url>
+    <loc>https://ubuntu-kr.org/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ubuntu-kr.org/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://ubuntu-kr.org/"
                 />
   </url><url>
     <loc>https://ubuntu-kr.org/slides/ubuntu/</loc>
@@ -26,19 +52,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://ubuntu-kr.org/slides/ubuntu/"
-                />
-  </url><url>
-    <loc>https://ubuntu-kr.org/</loc>
-    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ubuntu-kr.org/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://ubuntu-kr.org/"
                 />
   </url><url>
     <loc>https://ubuntu-kr.org/categories/</loc>

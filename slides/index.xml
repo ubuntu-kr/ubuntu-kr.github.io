@@ -6,7 +6,16 @@
     <description>Recent content in Slides on 우분투한국커뮤니티</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Thu, 20 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ubuntu-kr.org/slides/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ubuntu-kr.org/slides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UbuCon Korea 2023</title>
+      <link>https://ubuntu-kr.org/slides/ubucon-kr-2023/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ubuntu-kr.org/slides/ubucon-kr-2023/</guid>
+      <description>작년 UbuCon Asia 에 이어, 올해 9월 9일 한국마이크로소프트에서 &amp;ldquo;개발자 생산성을 위한 우분투&amp;quot;를 테마로 UbuCon Korea 가 열립니다!</description>
+    </item>
+    
     <item>
       <title>우분투 23.04</title>
       <link>https://ubuntu-kr.org/slides/ubuntu/</link>
