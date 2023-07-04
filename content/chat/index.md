@@ -36,7 +36,7 @@ IRC 이용시, 아래 규정을 먼저 확인 해 주시기 바랍니다.
 | 일반적인 대화 및 질의응답 | general | [#ubuntu-kr-general:matrix.org](https://matrix.to/#/#ubuntu-kr-general:matrix.org) | [#ubuntu-kr](http://kiwiirc.com/client/irc.libera.chat/ubuntu-kr) | [IRC 대화기록 확인하기](irclogs.ubuntu.com)* |
 | 공지사항 채널 | notice | [#ubuntu-kr-notice:matrix.org](https://matrix.to/#/#ubuntu-kr-notice:matrix.org) | - | - |
 | 번역(L10n)팀 채널 | l10n | [#ubuntu-l10n-ko:matrix.org](https://matrix.to/#/#ubuntu-l10n-ko:matrix.org) | - | - |
-| UbuCon Korea 참가자 채넝 | ubucon-kr | [#ubucon-kr:matrix.org](https://matrix.to/#/#ubucon-kr:matrix.org) | - | - |
+| UbuCon Korea 참가자 채널 | ubucon-kr | [#ubucon-kr:matrix.org](https://matrix.to/#/#ubucon-kr:matrix.org) | - | - |
 | 포럼 게시물 피드 채널 | forum-feed | [#ubuntu-kr-forum:matrix.org](https://matrix.to/#/#ubuntu-kr-forum:matrix.org) | - | - |
 
 
