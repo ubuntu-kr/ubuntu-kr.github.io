@@ -92,8 +92,8 @@ other = "List of Organizers"
 [about_organizers_join]
 other = "Wanna get involved as Organizer?"
 
-[forums]
-other = "Forums"
+[forums_discourse]
+other = "Forums (Discourse)"
 [fb_groups]
 other = "Facebook Groups"
 [wiki]

@@ -91,8 +91,8 @@ other = "운영진 목록"
 [about_organizers_join]
 other = "커뮤니티 운영진이 되고 싶으신가요?"
 
-[forums]
-other = "포럼"
+[forums_discourse]
+other = "포럼 (Discourse)"
 [fb_groups]
 other = "페이스북 그룹"
 [wiki]
