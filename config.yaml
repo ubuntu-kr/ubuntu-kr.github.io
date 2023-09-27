@@ -138,6 +138,11 @@ languages:
         name: 우분투 번역하기
         url: translate
         weight: 4
+      - identifier: paid-membership
+        parent: partandcontrib
+        name: 회비 납부
+        url: https://github.com/sponsors/ubuntu-kr
+        weight: 4
       - identifier: follow
         name: 소식 받기
         weight: 5
@@ -286,6 +291,11 @@ languages:
         parent: partandcontrib
         name: Translate Ubuntu
         url: translate
+        weight: 4
+      - identifier: paid-membership
+        parent: partandcontrib
+        name: Contribute Membership fee
+        url: https://github.com/sponsors/ubuntu-kr
         weight: 4
       - identifier: follow
         name: Follow us
