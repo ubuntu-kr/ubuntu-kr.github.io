@@ -1,5 +1,5 @@
 ---
-title: "Ubuntu 23.04"
+title: "Ubuntu 23.10"
 backgroundType: suru #light, dark, accent, suru, suru-topped, image
 colorScheme: dark #dark, light
 image: mantic.svg
