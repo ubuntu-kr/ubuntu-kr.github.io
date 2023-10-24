@@ -5,10 +5,10 @@ image: "download.svg"
 backgroundType: suru #light, dark, accent, suru, suru-topped, image
 ubuntuVersions:
     ltsVersion: "22.04 LTS"
-    normalVersion: "23.04"
+    normalVersion: "23.10"
     ltsReleaseNoteKor: https://blog.ubuntu-kr.org/2022/04/22/jamme-jellyfish-release-notes/
     ltsReleaseNote: https://discourse.ubuntu.com/t/jammy-jellyfish-release-notes/24668
-    normalReleaseNote: https://discourse.ubuntu.com/t/lunar-lobster-release-notes/31910
+    normalReleaseNote: https://discourse.ubuntu.com/t/mantic-minotaur-release-notes/35534
 
 ---
 
