@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ubuntu-kr.org/en/slides/</loc>
-    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ubuntu-kr.org/en/slides/"
+                />
+  </url><url>
+    <loc>https://ubuntu-kr.org/en/slides/ubuntu/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://ubuntu-kr.org/slides/ubuntu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ubuntu-kr.org/en/slides/ubuntu/"
+                />
+  </url><url>
+    <loc>https://ubuntu-kr.org/en/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://ubuntu-kr.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ubuntu-kr.org/en/"
                 />
   </url><url>
     <loc>https://ubuntu-kr.org/en/slides/ubucon-kr-2023/</loc>
@@ -26,32 +52,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ubuntu-kr.org/en/slides/ubucon-kr-2023/"
-                />
-  </url><url>
-    <loc>https://ubuntu-kr.org/en/</loc>
-    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://ubuntu-kr.org/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ubuntu-kr.org/en/"
-                />
-  </url><url>
-    <loc>https://ubuntu-kr.org/en/slides/ubuntu/</loc>
-    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://ubuntu-kr.org/slides/ubuntu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ubuntu-kr.org/en/slides/ubuntu/"
                 />
   </url><url>
     <loc>https://ubuntu-kr.org/en/about/</loc>

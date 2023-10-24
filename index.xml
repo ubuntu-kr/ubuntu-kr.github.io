@@ -6,7 +6,16 @@
     <description>Recent content on 우분투한국커뮤니티</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ubuntu-kr.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ubuntu-kr.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>우분투 23.10</title>
+      <link>https://ubuntu-kr.org/slides/ubuntu/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ubuntu-kr.org/slides/ubuntu/</guid>
+      <description>가장 최근 2023년 10월 출시된 우분투 23.10 Mantic Minotaur를 내려받아 데스크탑, 서버, 사물인터넷, 클라우드 등 다양한 환경에서 사용하실 수 있습니다.</description>
+    </item>
+    
     <item>
       <title>UbuCon Korea 2023</title>
       <link>https://ubuntu-kr.org/slides/ubucon-kr-2023/</link>
@@ -14,15 +23,6 @@
       
       <guid>https://ubuntu-kr.org/slides/ubucon-kr-2023/</guid>
       <description>작년 UbuCon Asia 에 이어, 올해 9월 9일 한국마이크로소프트에서 &amp;ldquo;개발자 생산성을 위한 우분투&amp;quot;를 테마로 UbuCon Korea 가 열립니다!</description>
-    </item>
-    
-    <item>
-      <title>우분투 23.04</title>
-      <link>https://ubuntu-kr.org/slides/ubuntu/</link>
-      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ubuntu-kr.org/slides/ubuntu/</guid>
-      <description>가장 최근 2023년 4월 출시된 우분투 23.04 Lunar Lobster를 내려받아 데스크탑, 서버, 사물인터넷, 클라우드 등 다양한 환경에서 사용하실 수 있습니다.</description>
     </item>
     
     <item>
@@ -64,7 +64,7 @@
       
       <guid>https://ubuntu-kr.org/download/</guid>
       <description>버전 및 요구사양 우분투 22.04 LTS 가장 최근 출시된 LTS(장기 지원) 버전인 우분투 22.04 LTS는 5년간 유지보수 및 보안 업데이트가 무료로 제공됩니다. 대부분의 경우, 안정적인 사용을 위해 LTS 버전 사용이 권장됩니다.
- 우분투 22.04 LTS 릴리즈 노트 보기(한국어 번역) 우분투 22.04 LTS 릴리즈 노트 보기  우분투 23.04 새로운 기능을 먼저 사용해 보고 싶다면, 가장 최신 버전인 우분투 23.04를 사용해 보세요. 출시 후 9개월간 유지보수 및 보안 업데이트가 무료로 제공됩니다.</description>
+ 우분투 22.04 LTS 릴리즈 노트 보기(한국어 번역) 우분투 22.04 LTS 릴리즈 노트 보기  우분투 23.10 새로운 기능을 먼저 사용해 보고 싶다면, 가장 최신 버전인 우분투 23.10를 사용해 보세요. 출시 후 9개월간 유지보수 및 보안 업데이트가 무료로 제공됩니다.</description>
     </item>
     
     <item>
