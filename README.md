@@ -4,7 +4,7 @@ The new Website of Ubuntu UK Community. Built with [Hugo](https://gohugo.io) and
 
 ## Ubuntu-UK LoCo Website repo
 
-This repo contains the content for the Ubuntu UK Local Community Team website. The goal is to have the content here hosted at https://ubuntu-uk.org/. Currently the site is at https://ubuntu-uk.github.io/website/
+This repo contains the content for the Ubuntu UK Local Community Team website. The goal is to have the content here hosted at https://ubuntu-uk.org/. Currently the site is at https://ubuntu-uk.github.io/
 
 ## Get involved
 
