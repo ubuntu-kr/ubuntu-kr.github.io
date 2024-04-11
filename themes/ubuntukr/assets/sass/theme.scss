@@ -1,6 +1,9 @@
 // Import the framework
 @import 'vanilla-framework/scss/vanilla';
 
+// Import the fonts
+@import 'https://cdn.jsdelivr.net/gh/rivercory/rivercory/font.css';
+
 // Include all of Vanilla Framework
 @include vanilla;
 
@@ -14,6 +17,9 @@
 @include vf-p-icon-comments;
 @include vf-p-icon-highlight-off;
 
+body {
+    font-family: 'SUIT-Regular';
+}
 
 .p-navigation__dropdown-item {
     color: white !important;
