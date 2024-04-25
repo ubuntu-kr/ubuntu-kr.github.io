@@ -17,12 +17,12 @@
     </item>
     
     <item>
-      <title>Ubuntu 23.10</title>
+      <title>Ubuntu 24.04</title>
       <link>https://ubuntu-kr.org/en/slides/ubuntu/</link>
-      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://ubuntu-kr.org/en/slides/ubuntu/</guid>
-      <description>Ubuntu 23.10 Mantic Minotaur is the latest version released in October 2023. You can get it today, and run it on various environments such as Desktop, Servers, IoT, Cloud and much more.</description>
+      <description>Ubuntu 24.04 Noble Numbat is the latest LTS version released in April 2024. You can get it today, and run it on various environments such as Desktop, Servers, IoT, Cloud and much more.</description>
     </item>
     
   </channel>
