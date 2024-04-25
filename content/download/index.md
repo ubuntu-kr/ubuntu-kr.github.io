@@ -16,7 +16,7 @@ ubuntuVersions:
 가장 최근 출시된 LTS(장기 지원) 버전인 우분투 {{< param "ubuntuVersions.ltsVersion" >}}는 5년간 유지보수 및 보안 업데이트가 무료로 제공됩니다. (Ubuntu Pro 등 구독 시 최대 12년)
 대부분의 경우, 안정적인 사용을 위해 LTS 버전 사용이 권장됩니다.
 
-- [우분투 {{< param "ubuntuVersions.ltsVersion" >}} 릴리즈 노트 보기(한국어 번역)]({{< param "ubuntuVersions.ltsReleaseNoteKor" >}})
+- [우분투 {{< param "ubuntuVersions.ltsVersion" >}} 릴리즈 노트 보기(한국어 번역 - 준비중)]({{< param "ubuntuVersions.ltsReleaseNoteKor" >}})
 - [우분투 {{< param "ubuntuVersions.ltsVersion" >}} 릴리즈 노트 보기]({{< param "ubuntuVersions.ltsReleaseNote" >}})
 
 ## 우분투 {{< param "ubuntuVersions.normalVersion" >}}
