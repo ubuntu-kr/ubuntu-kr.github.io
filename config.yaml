@@ -143,6 +143,11 @@ languages:
         name: 회비 납부
         url: https://github.com/sponsors/ubuntu-kr
         weight: 4
+      - identifier: swag
+        parent: partandcontrib
+        name: 기념품 구입
+        url: https://marpple.shop/ubuntukr
+        weight: 4
       - identifier: follow
         name: 소식 받기
         weight: 5
@@ -176,6 +181,11 @@ languages:
         name: 링크드인
         url: https://www.linkedin.com/company/ubuntu-kr/
         weight: 4
+      - identifier: bsky
+        parent: follow
+        name: 블루스카이
+        url: https://bsky.app/profile/ubuntu-kr.org
+        weight: 4 
   en:
     languageName: English
     title: Ubuntu Korea Community
@@ -297,6 +307,10 @@ languages:
         name: Contribute Membership fee
         url: https://github.com/sponsors/ubuntu-kr
         weight: 4
+      - identifier: swag
+        parent: partandcontrib
+        name: Buy Swag
+        url: https://marpple.shop/ubuntukr
       - identifier: follow
         name: Follow us
         weight: 5
@@ -329,4 +343,10 @@ languages:
         parent: follow
         name: LinkedIn
         url: https://www.linkedin.com/company/ubuntu-kr/
-        weight: 4
+        weight: 4 
+      - identifier: bsky
+        parent: follow
+        name: BlueSky
+        url: https://bsky.app/profile/ubuntu-kr.org
+        weight: 4 
+
