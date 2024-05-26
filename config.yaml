@@ -126,7 +126,7 @@ languages:
       - identifier: events
         parent: partandcontrib
         name: 행사 참여하기
-        url: https://event.ubuntu-kr.org
+        url: https://discourse.ubuntu-kr.org/c/scheds-and-events/
         weight: 4
       - identifier: study_projects
         parent: partandcontrib
@@ -290,7 +290,7 @@ languages:
       - identifier: events
         parent: partandcontrib
         name: Join events
-        url: https://event.ubuntu-kr.org
+        url: https://discourse.ubuntu-kr.org/c/scheds-and-events/
         weight: 4
       - identifier: study_projects
         parent: partandcontrib
