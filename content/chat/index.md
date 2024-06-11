@@ -9,7 +9,7 @@ backgroundType: suru-topped
 Discord, Matrix (Element.io), IRC (Libera.chat) 로 채팅에 참여하실 수 있습니다. 아래 정보를 참고하여 본인이 사용하기 편한 방식으로 이용해 주세요.
 
 - **Discord**: [Discord 서버 들어가기](https://discord.gg/sUvF7PAgNd) | [Discord 로그인](https://discord.com/login)
-- **Matrix (Element.io)**: [Matrix Space 접속 (#ubuntu-kr)](https://matrix.to/#/#ubuntu-kr:ubuntu.com) | [Element.io 로그인](https://app.element.io/index.html#/login) | [Element.io 회원가입](https://app.element.io/index.html#/register)
+- **Matrix (Element.io)**: [Matrix Space 접속 (#ubuntu-kr)](https://matrix.to/#/#loco-kr:ubuntu.com) | [Element.io 로그인](https://app.element.io/index.html#/login) | [Element.io 회원가입](https://app.element.io/index.html#/register)
 - **IRC (Libera.chat)**: irc.libera.chat 의 #ubuntu-kr 채널 접속. [(웹에서 Kiwi IRC로 바로 접속 하기)](http://kiwiirc.com/client/irc.libera.chat/ubuntu-kr)
 
 ## IRC 이용정보
@@ -37,7 +37,7 @@ IRC 이용시, 아래 규정을 먼저 확인 해 주시기 바랍니다.
 | 공지사항 채널 | notice | [#loco-kr-notice:ubuntu.com](https://matrix.to/#/#loco-kr-notice:ubuntu.com) | - | - |
 | 번역(L10n)팀 채널 | l10n | [#l10n-ko:ubuntu.com](https://matrix.to/#/#l10n-ko:ubuntu.com) | - | - |
 | UbuCon Korea 참가자 채널 | ubucon-kr | [#ubucon-kr:ubuntu.com](https://matrix.to/#/#ubucon-kr:ubuntu.com) | - | - |
-| 포럼 게시물 피드 채널 | forum-feed | [#loco-kr-forum:ubuntu.com](https://matrix.to/#/#loco-kr-forum-feed:ubuntu.com) | - | - |
+| 포럼 게시물 피드 채널 | forum-feed | [#loco-kr-forum-feed:ubuntu.com](https://matrix.to/#/#loco-kr-forum-feed:ubuntu.com) | - | - |
 
 
 > *IRC 의 `#ubuntu-kr` 채널에서의 대화 내역은 Canonical IS 팀이 운영하는 `ubuntulog` 봇에 의해 모두 기록되고 있으며, irclogs.ubuntu.com 에서 IRC 대화 기록을 확인하실 수 있습니다. 또한, 연동된 다른 메신저의 채널에도 IRC 관련 규정이 적용되니 이용에 참고 해 주시기 바랍니다. 
