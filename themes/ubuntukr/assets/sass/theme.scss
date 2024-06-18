@@ -25,21 +25,21 @@ section {
 }
 
 .main-strip .right-section {
-    animation-duration: 1s;
-    animation-name    : slidein-rtl;
+    animation-duration: 0.5s;
+    animation-name    : slidein-ttb;
 }
 
 
 
 .main-strip .left-section {
-    animation-duration: 1s;
+    animation-duration: 0.5s;
     animation-name    : slidein-ltr;
 }
 
 
-@keyframes slidein-rtl {
+@keyframes slidein-ltr {
     from {
-        transform: translateX(50px);
+        transform: translateX(-25px);
         opacity  : 0;
     }
 
@@ -49,14 +49,14 @@ section {
     }
 }
 
-@keyframes slidein-ltr {
+@keyframes slidein-ttb {
     from {
-        transform: translateX(-50px);
+        transform: translateY(-25px);
         opacity  : 0;
     }
 
     to {
-        transform: translateX(0);
+        transform: translateY(0);
         opacity  : 1;
     }
 }

@@ -1,6 +1,7 @@
 ---
 title: "UbuCon Korea 2024"
-backgroundType: suru #light, dark, accent, suru, suru-topped, image
+subtitle: "Deploy with Ubuntu"
+backgroundType: p-suru--fan-bottom #light, dark, accent, suru, suru-topped, image
 colorScheme: dark #dark, light
 image: logo.svg
 # backgroundImage: bg.png

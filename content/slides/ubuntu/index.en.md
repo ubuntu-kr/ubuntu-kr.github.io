@@ -1,6 +1,7 @@
 ---
-title: "Ubuntu 24.04"
-backgroundType: suru #light, dark, accent, suru, suru-topped, image
+title: "Ubuntu 24.04 LTS"
+subtitle: "Noble Numbat"
+backgroundType: p-suru--fan-bottom #light, dark, accent, suru, suru-topped, image
 colorScheme: dark #dark, light
 image: noble.svg
 # backgroundImage: bg.png
@@ -10,4 +11,4 @@ buttons:
 draft: false
 date: 2024-04-26
 ---
-Ubuntu 24.04 Noble Numbat is the latest LTS version released in April 2024. You can get it today, and run it on various environments such as Desktop, Servers, IoT, Cloud and much more.
+Meet the latest Ubuntu LTS today: Better performance and developer productivity, New management toold for Desktop and WSL, Up to 12 years of support.

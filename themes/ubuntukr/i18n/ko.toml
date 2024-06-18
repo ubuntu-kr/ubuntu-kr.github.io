@@ -114,3 +114,6 @@ other = "운영진과 연락하기(이메일)"
 other = "GitHub에서 소스코드 보기"
 [privacy_policy]
 other = "개인정보처리방침"
+
+[sponsors_partners]
+other = "후원사 & 파트너"
