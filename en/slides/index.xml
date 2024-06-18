@@ -17,12 +17,12 @@
     </item>
     
     <item>
-      <title>Ubuntu 24.04</title>
+      <title>Ubuntu 24.04 LTS</title>
       <link>https://ubuntu-kr.org/en/slides/ubuntu/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://ubuntu-kr.org/en/slides/ubuntu/</guid>
-      <description>Ubuntu 24.04 Noble Numbat is the latest LTS version released in April 2024. You can get it today, and run it on various environments such as Desktop, Servers, IoT, Cloud and much more.</description>
+      <description>Meet the latest Ubuntu LTS today: Better performance and developer productivity, New management toold for Desktop and WSL, Up to 12 years of support.</description>
     </item>
     
   </channel>
