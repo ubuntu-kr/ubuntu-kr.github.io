@@ -1,6 +1,6 @@
 ---
 title: "채팅"
-description: "채팅에 참여하여 사람들과 대회하거나 질문 및 답변을 할 수 있습니다."
+description: "채팅에 참여하여 사람들과 대화하거나 질문 및 답변을 할 수 있습니다."
 image: "chat.svg"
 backgroundType: suru-topped
 ---
