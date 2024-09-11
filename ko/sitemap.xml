@@ -84,6 +84,8 @@
   </url><url>
     <loc>https://ubuntu-kr.org/projects/</loc>
   </url><url>
+    <loc>https://ubuntu-kr.org/sponsors/cloudmate_co_ltd/</loc>
+  </url><url>
     <loc>https://ubuntu-kr.org/download/</loc>
     <xhtml:link
                 rel="alternate"
@@ -113,8 +115,6 @@
                 hreflang="ko"
                 href="https://ubuntu-kr.org/about/"
                 />
-  </url><url>
-    <loc>https://ubuntu-kr.org/sponsors/cloudmate_co_ltd/</loc>
   </url><url>
     <loc>https://ubuntu-kr.org/sponsors/</loc>
   </url>

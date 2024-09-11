@@ -13,7 +13,7 @@
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>https://ubuntu-kr.org/slides/ubucon-kr-2024/</guid>
-      <description>작년 UbuCon Korea 에 이어, 올해 8월 10일 한국마이크로소프트에서 &amp;ldquo;Deploy with Ubuntu&amp;quot;를 테마로 UbuCon Korea 가 열립니다!</description>
+      <description>작년 UbuCon Korea 에 이어, 올해 8월 10일 한국마이크로소프트에서 &amp;ldquo;Deploy with Ubuntu&amp;quot;를 테마로 UbuCon Korea가 개최되었습니다!</description>
     </item>
     
     <item>
@@ -43,7 +43,7 @@
       <guid>https://ubuntu-kr.org/sponsors/nipa_kr/</guid>
       <description>후원사 소개 OpenUP, 오픈소스 소프트웨어 통합 지원 센터는 정보통신산업진흥원(NIPA) 소속의 오픈소스 지원 및 진흥을 담당하는 조직 입니다.
 오픈소스 소프트웨어를 개발, 공유, 활용하기를 원하는 개발자, 기업, 정부 등을 체계정으로 지원하고, 수요(기업, 공공기관) 및 공급(개발자, 기업)의 선순환 구조를 이루어, 오픈소스 소프트웨어 활성화의 허브 역할을 수행하는 기관입니다.
-후원 세부사항  커뮤니티 행사 개최나 스터디/프로젝트 모임 진행을 위한 장소 대관, 화상 회의 플랫폼 등을 커뮤니티 지원 프로그램을 통해 제공하고 있습니다. 지난 UbuCon Asia 2022에 정부기관 후원사로 참여하였습니다.</description>
+후원 세부사항  커뮤니티 행사 개최나 스터디/프로젝트 모임 진행을 위한 장소 대관, 화상 회의 플랫폼 등을 커뮤니티 지원 프로그램을 통해 제공하고 있습니다. 지난 UbuCon Korea 2023에 정부기관 후원사로 참여하였습니다.</description>
     </item>
     
     <item>
@@ -55,6 +55,17 @@
       <description>그룹 스터디 주기적으로 우분투 또는 우분투 관련 오픈소스 기술에 대해 주제를 선정하여 그룹 스터디를 진행하고 있습니다. 스터디에 필요한 비용이나 공간, 장비 등은 되도록이면 커뮤니티 차원에서 지원하거나 별도 후원을 받아 진행하고 있습니다.
 컨테이너, 리눅스 데스크탑 앱 개발, 서버 구축 등 다양한 주제로 스터디를 진행하고 있습니다.
 스터디 주제는 회원이 제안 하거나, 운영진 측에서 기획하여 선정하며, 스터디 구성원 모집 시 포럼이나 소셜 미디어 채널 등을 통해 모집합니다. 그룹 스터디 산출물은 위키 또는 GitHub 등에 공유되고 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>안랩클라우드메이트</title>
+      <link>https://ubuntu-kr.org/sponsors/cloudmate_co_ltd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ubuntu-kr.org/sponsors/cloudmate_co_ltd/</guid>
+      <description>후원사 소개 안랩클라우드메이트는 기술력 중심의 MANAGED SERVICE 전문 기업으로, 고객이 목표하는 클라우드 환경을 구축하고 효율적으로 운영할 수 있도록 도와드립니다.
+클라우드에 대한 열정 가득한 인재들로 구성되어 끊임없이 관련 기술을 공부하고, 습득한 지식을 함께 나누어 고객 비즈니스 가치를 향상시키는 것이 저희의 미션입니다.
+후원 세부사항  커뮤니티 웹사이트, 포럼, 위키의 안정적 운영을 위한 클라우드 인프라를 Microsoft Azure, Amazon Web Services 를 통해 후원하고 있습니다. 지난 UbuCon Korea 2024에 Silver 후원사로 참여하였습니다. 지난 UbuCon Korea 2023에 Silver 후원사로 참여하였습니다.</description>
     </item>
     
     <item>
@@ -98,17 +109,6 @@
  회원가입 채널 접속 (ubuntu-kr.slack.com)  채널 목록
  0000-general: 일반 채널 (IRC #ubuntu-ko 와 연동) 0001-notice: 공지사항 채널 0004-l10n: 우분투 번역 팀 채널 2XXX-*: 그룹 스터디용 채널 3XXX-*: 프로젝트 팀 채널  IRC 사용하시는 IRC 클라이언트가 있다면, 아래 정보로 IRC 채널에 접속하여 이용할 수 있습니다.
  서버: irc.ubuntu.com 또는 irc.libera.chat  (irc.ubuntu.com 은 irc.libera.chat 에 포인팅 하는 주소, 즉 둘 다 Libera.</description>
-    </item>
-    
-    <item>
-      <title>클라우드메이트</title>
-      <link>https://ubuntu-kr.org/sponsors/cloudmate_co_ltd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ubuntu-kr.org/sponsors/cloudmate_co_ltd/</guid>
-      <description>후원사 소개 클라우드메이트는 기술력 중심의 MANAGED SERVICE 전문 기업으로, 고객이 목표하는 클라우드 환경을 구축하고 효율적으로 운영할 수 있도록 도와드립니다.
-클라우드에 대한 열정 가득한 인재들로 구성되어 끊임없이 관련 기술을 공부하고, 습득한 지식을 함께 나누어 고객 비즈니스 가치를 향상시키는 것이 저희의 미션입니다.
-후원 세부사항  커뮤니티 웹사이트, 포럼, 위키의 안정적 운영을 위한 클라우드 인프라를 Microsoft Azure, Amazon Web Services 를 통해 후원하고 있습니다. 지난 UbuCon Asia 2022에 Bronze 후원사로 참여하였습니다. 지난 UbuCon Asia 2021에 Silver 후원사로 참여하였습니다.</description>
     </item>
     
   </channel>
