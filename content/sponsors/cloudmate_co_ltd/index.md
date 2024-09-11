@@ -1,6 +1,6 @@
 ---
 title: "안랩클라우드메이트"
-image: "logo.webp"
+image: "logo.png"
 background: ""
 backgroundType: suru-topped
 buttons:
