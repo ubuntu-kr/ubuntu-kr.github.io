@@ -1,0 +1,42 @@
+{{ define "main" }}
+
+{{ $allPages := .Site.Pages }}
+{{ range .Site.Home.Translations }}
+{{ $allPages = $allPages | lang.Merge .Site.Pages }}
+{{ end }}
+
+{{ $regularPages := .Site.RegularPages }}
+{{ range .Site.Home.Translations }}
+{{ $regularPages = $regularPages | lang.Merge .Site.RegularPages }}
+{{ end }}
+
+<main>
+    <section class="p-suru--fan-top main-strip">
+        <div class="row">
+            <h1>404 Page Not Found</h1>
+            <p>페이지를 찾을 수 없습니다. 주소를 다시 한 번 확인해보세요.</p>
+            <p>이 사이트의 다른 페이지에서 건너오셨다면, 그 사이 페이지가 변경되었거나 사라졌을지도 모릅니다.</p>
+        </div>
+        <div class="row">
+            <p>
+                <a href="javascript:window.history.back()">
+                    <button class="p-button has-icon">
+                        <i class="p-icon--chevron-left"></i><span>이전 페이지로</span>
+                    </button>
+                </a>
+                <a href="/">
+                    <button class="p-button has-icon">
+                        <i class="p-icon--home"></i><span>처음으로</span>
+                    </button>
+                </a>
+                <a href="https://github.com/ubuntu-kr/ubuntu-kr.github.io/issues" target="_blank">
+                    <button class="p-button has-icon">
+                        <i class="p-icon--external-link"></i><span>오류 제보하기(GitHub Issues)</span>
+                    </button>
+                </a>    
+            </p>
+        </div>
+    </section>
+</main>
+
+{{ end }}
