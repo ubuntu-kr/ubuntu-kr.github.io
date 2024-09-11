@@ -251,8 +251,8 @@ languages:
         weight: 24
       - identifier: bylaws
         parent: about-group
-        name: Bylaws
-        url: bylaws
+        name: Bylaws(Korean)
+        url: https://disclosures.ubuntu-kr.org/legal/
         weight: 25
       - identifier: sponsors
         parent: about-group
