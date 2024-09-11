@@ -11,4 +11,4 @@ buttons:
 draft: false
 date: 2024-08-10
 ---
-Following the success of last year's UbuCon Korea, UbuCon Korea will be held at Aug 10th at Microsoft Korea. With the theme "Deploy with Ubuntu"
+Following the success of last year's UbuCon Korea, UbuCon Korea was held at Aug 10th at Microsoft Korea. With the theme "Deploy with Ubuntu"
