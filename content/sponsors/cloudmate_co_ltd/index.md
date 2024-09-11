@@ -5,7 +5,7 @@ background: ""
 backgroundType: suru-topped
 buttons:
     - label: 웹사이트
-      url: https://cloudmt.co.kr/
+      url: https://ahnlabcloudmate.com/
     - label: Facebook
       url: https://www.facebook.com/cloudmatekr
     - label: YouTube
