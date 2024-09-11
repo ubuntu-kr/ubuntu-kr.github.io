@@ -11,6 +11,8 @@ Ubuntu is one of the most widely used Linux distributon in the world.
 It is well known as easy to use linux desktop, and easy to configure linux distribution for server and other infrastructures.
 Ubuntu is optimized for various devices and environment such as Desktop, Laptop, Server, Cloud, Internet of Things, Raspberry Pi, Appliances, Kiosks and much more.
 """
+[main_ubuntu_download]
+other = "Download"
 
 [main_kr_loco_title]
 other = "Verified Ubuntu LoCo(Local Community)"
@@ -118,3 +120,5 @@ other = "Privacy policy"
 
 [sponsors_partners]
 other = "Sponsors & Partners"
+[sponsors_description]
+other = "Various companies, institutions, organizations support Ubuntu Korea Community in many ways, helping us to be more active."
