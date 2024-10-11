@@ -1,14 +1,14 @@
 ---
-title: "Ubuntu 24.04 LTS"
-subtitle: "Noble Numbat"
+title: "Ubuntu 24.10"
+subtitle: "Oracular Oriole"
 backgroundType: p-suru--fan-bottom #light, dark, accent, suru, suru-topped, image
 colorScheme: dark #dark, light
-image: noble.svg
+image: oracular.svg
 # backgroundImage: bg.png
 buttons:
     - label: Download
       url: download
 draft: false
-date: 2024-04-26
+date: 2024-10-11
 ---
-Meet the latest Ubuntu LTS today: Better performance and developer productivity, New management toold for Desktop and WSL, Up to 12 years of support.
+Meet Ubuntu 24.10 that celebrates 20 years of Ubuntu and features Cutting edge kernel and enhanced desktop security today.
