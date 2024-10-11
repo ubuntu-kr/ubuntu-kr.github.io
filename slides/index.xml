@@ -6,7 +6,16 @@
     <description>Recent content in Slides on 우분투한국커뮤니티</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ubuntu-kr.org/slides/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ubuntu-kr.org/slides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>우분투 24.10</title>
+      <link>https://ubuntu-kr.org/slides/ubuntu/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ubuntu-kr.org/slides/ubuntu/</guid>
+      <description>최신 커널과 향상된 리눅스 데스크톱 보안 기능을 제공하며, 우분투 첫 출시 20주년을 기념하는 릴리스이기도 한 우분투 24.10을 오늘 바로 만나보세요.</description>
+    </item>
+    
     <item>
       <title>UbuCon Korea 2024</title>
       <link>https://ubuntu-kr.org/slides/ubucon-kr-2024/</link>
@@ -14,15 +23,6 @@
       
       <guid>https://ubuntu-kr.org/slides/ubucon-kr-2024/</guid>
       <description>작년 UbuCon Korea 에 이어, 올해 8월 10일 한국마이크로소프트에서 &amp;ldquo;Deploy with Ubuntu&amp;quot;를 테마로 UbuCon Korea가 개최되었습니다!</description>
-    </item>
-    
-    <item>
-      <title>우분투 24.04 LTS</title>
-      <link>https://ubuntu-kr.org/slides/ubuntu/</link>
-      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://ubuntu-kr.org/slides/ubuntu/</guid>
-      <description>더 향상된 성능과 개발자 생산성, 새로운 데스크톱 및 WSL 관리도구, 그리고 최대 12년의 장기 지원을 제공하는 최신 우분투 LTS 버전을 오늘 바로 만나보세요.</description>
     </item>
     
   </channel>
