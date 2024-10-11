@@ -5,10 +5,10 @@ image: "download.svg"
 backgroundType: suru #light, dark, accent, suru, suru-topped, image
 ubuntuVersions:
     ltsVersion: "24.04 LTS"
-    normalVersion: "23.10"
+    interimVersion: "24.10"
     ltsReleaseNoteKor: "#"
     ltsReleaseNote: https://discourse.ubuntu.com/t/noble-numbat-release-notes/39890
-    normalReleaseNote: https://discourse.ubuntu.com/t/mantic-minotaur-release-notes/35534
+    interimReleaseNote: https://discourse.ubuntu.com/t/oracular-oriole-release-notes/44878
 ---
 
 # 버전 및 요구사양
@@ -19,10 +19,10 @@ ubuntuVersions:
 - [우분투 {{< param "ubuntuVersions.ltsVersion" >}} 릴리즈 노트 보기(한국어 번역 - 준비중)]({{< param "ubuntuVersions.ltsReleaseNoteKor" >}})
 - [우분투 {{< param "ubuntuVersions.ltsVersion" >}} 릴리즈 노트 보기]({{< param "ubuntuVersions.ltsReleaseNote" >}})
 
-## 우분투 {{< param "ubuntuVersions.normalVersion" >}}
-새로운 기능을 먼저 사용해 보고 싶다면, 가장 최신 버전인 우분투 {{< param "ubuntuVersions.normalVersion" >}}를 사용해 보세요. 출시 후 9개월간 유지보수 및 보안 업데이트가 무료로 제공됩니다.
+## 우분투 {{< param "ubuntuVersions.interimVersion" >}}
+새로운 기능을 먼저 사용해 보고 싶다면, 가장 최신 버전인 우분투 {{< param "ubuntuVersions.interimVersion" >}}를 사용해 보세요. 출시 후 9개월간 유지보수 및 보안 업데이트가 무료로 제공됩니다.
 
-[우분투 {{< param "ubuntuVersions.normalVersion" >}} 릴리즈 노트 보기]({{< param "ubuntuVersions.normalReleaseNote" >}})
+[우분투 {{< param "ubuntuVersions.interimVersion" >}} 릴리즈 노트 보기]({{< param "ubuntuVersions.interimReleaseNote" >}})
 
 ## 우분투 출시 및 지원 주기
 우분투는 새 버전이 매년 4월과 10월, 6개월 간격으로 새로 출시되며. 짝수 년도 4월, 2년 간격으로 장기 지원(LTS) 버전이 출시됩니다.

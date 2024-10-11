@@ -5,10 +5,10 @@ image: "download.svg"
 backgroundType: suru #light, dark, accent, suru, suru-topped, image
 ubuntuVersions:
     ltsVersion: "24.04 LTS"
-    normalVersion: "23.10"
+    interimVersion: "24.10"
     ltsReleaseNoteKor: https://blog.ubuntu-kr.org/2022/04/22/jamme-jellyfish-release-notes/
-    ltsReleaseNote: https://discourse.ubuntu.com/t/jammy-jellyfish-release-notes/24668
-    normalReleaseNote: https://discourse.ubuntu.com/t/mantic-minotaur-release-notes/35534
+    ltsReleaseNote: https://discourse.ubuntu.com/t/noble-numbat-release-notes/39890
+    interimReleaseNote: https://discourse.ubuntu.com/t/oracular-oriole-release-notes/44878
 
 ---
 
@@ -20,10 +20,10 @@ In most cases, LTS version is recommended for stable use.
 - [See Ubuntu {{< param "ubuntuVersions.ltsVersion" >}} release notes (Korean translation)]({{< param "ubuntuVersions.ltsReleaseNoteKor" >}})
 - [See Ubuntu {{< param "ubuntuVersions.ltsVersion" >}} release notes]({{< param "ubuntuVersions.ltsReleaseNote" >}})
 
-## Ubuntu {{< param "ubuntuVersions.normalVersion" >}}
-If you want to try out latest features, Try out Ubuntu {{< param "ubuntuVersions.normalVersion" >}}, the latest version. It provides 9 months of maintenance and security updates for free.
+## Ubuntu {{< param "ubuntuVersions.interimVersion" >}}
+If you want to try out latest features, Try out Ubuntu {{< param "ubuntuVersions.interimVersion" >}}, the latest version. It provides 9 months of maintenance and security updates for free.
 
-[See Ubuntu {{< param "ubuntuVersions.normalVersion" >}} release notes]({{< param "ubuntuVersions.normalReleaseNote" >}})
+[See Ubuntu {{< param "ubuntuVersions.interimVersion" >}} release notes]({{< param "ubuntuVersions.interimReleaseNote" >}})
 
 ## Ubuntu release and support cycle
 New version of Ubuntu is released on every April and October with 6 months interval. And the new LTS version is released on April of even years with 2 years interval.
